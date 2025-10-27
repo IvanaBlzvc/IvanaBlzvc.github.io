@@ -209,7 +209,7 @@
     "faqContent6a4": "Learn more about [peers and networking](#peers-and-networking).",
     "faqContent6a5": "You can monitor the speed of data synchronisation by viewing the upload and dowload speeds to the right of the _**repository**_ name ",
     "faqContent6a6": "or you can go to **Repository Settings** screen and view the percentage of data synced (upper right hand corner). ", 
-    "faqContent6a7": "If your devices are connected to each other, every time a person who has the **write** access to a _**repository**_ changes its content (add a file, delete, rename etc), the _**repositories**_ will automatically sync with each other. When syncing is complete, you and your peer will have identical data in your respective _**repositories**_. ", 
+    "faqContent6a7": "If your devices are connected to each other, every time a person who has the **write** access to a _**repository**_ changes its content (add a file, delete, rename etc), theshared _**repositories**_ will automatically sync with each other. When syncing is complete, you and your peer will have identical data in your respective _**repositories**_. ", 
     
     "faqTitle6b": "How can I know when the syncing of my repositories is completed?", 
     "faqContent6b1": "During the syncing, you will see these symbols next to the _**repository**_ name.", 
