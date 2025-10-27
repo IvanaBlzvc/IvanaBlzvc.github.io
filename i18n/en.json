@@ -206,7 +206,7 @@
     "faqContent6a1":"Generally speaking, you don’t have to do anything else for the content of this _**repository**_ to arrive to your device - if the sharing and receiving device are connected.", 
     
     "faqContent6a2": "To verify that devices in question are indeed connected, please go to the app **Settings**, and then scroll down to the **Peers** section. Tapping on it will open a screen that will show you a list of devices that are in status **Connected**.", 
-    "faqContent6a2a":"If the device whose repository you imported is in status **Connected**, syncing will start utomatically.", 
+    "faqContent6a2a":"If the device whose repository you imported istatus **Connected**, syncing will start utomatically.", 
     "fasContent6a2a":"Learn more about [peers and networking](#peers-and-networking).",
     "faqContent6a3": "When your device is connected to your peer's device, data in your respective _**repositories**_ will sync automatically.",
     "faqContent6a4": "As a user, you don't need to perform any additional action to make the syncing start.", 
