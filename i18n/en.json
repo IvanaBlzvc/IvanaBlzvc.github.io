@@ -203,16 +203,13 @@
     "faqContent66": "The imported _**repository**_ will appear on your screen and after a short while all its content will be imported into your device.  In other words, the Ouisync _**repositories**_ on your devices will sync their data with the _**Ouisync repositories**_ on your peer’s device.  This will happen automatically, without the need for you to perform any further action. ",
    
     "faqTitle6a": "I have imported a repository - what should I do next?",
-    "faqContent6a1":"Generally speaking, you don’t have to do anything else for the content of this _**repository**_ to arrive to your device - if the sharing and receiving device are connected.", 
-    
-    "faqContent6a2": "To verify that devices in question are indeed connected, please go to the app **Settings**, and then scroll down to the **Peers** section. Tapping on it will open a screen that will show you a list of devices that are in status **Connected**.", 
-    "faqContent6a2a":"If the device whose repository you imported istatus **Connected**, syncing will start utomatically.", 
-    "fasContent6a2a":"Learn more about [peers and networking](#peers-and-networking).",
-    "faqContent6a3": "When your device is connected to your peer's device, data in your respective _**repositories**_ will sync automatically.",
-    "faqContent6a4": "As a user, you don't need to perform any additional action to make the syncing start.", 
+    "faqContent6a1": "If your device is connected to the device that shared the _**repository**_ with you, then syncing will start automatically.", 
+    "faqContent6a2": "To verify that devices in question are indeed connected, please go to the app **Settings**, and then scroll down to the **Peers** section. Tapping on it will open a screen that will show you a list of devices that are **Connected** to your device.", 
+    "faqContent6a3": "If the device whose _**repository**_ you imported  has status **Connected**, you don't need to perform any additional action to make the syncing start.",  
+    "faqContent6a4": "Learn more about [peers and networking](#peers-and-networking).",
     "faqContent6a5": "You can monitor the speed of data synchronisation by viewing the upload and dowload speeds to the right of the _**repository**_ name ",
     "faqContent6a6": "or you can go to **Repository Settings** screen and view the percentage of data synced (upper right hand corner). ", 
-    "faqContent6a7": "If your devices are connected to each other, every time you change the content of the shared _**repository**_, or your peer does, your respective _**repositories**_ will automatically sync with each other. When syncing is complete, you and your peer will have identical data in your respective repositories. ", 
+    "faqContent6a7": "If your devices are connected to each other, every time a person who has the **write** access to a _**repository**_ changes its content (add a file, delete, rename etc), the _**repositories**_ will automatically sync with each other. When syncing is complete, you and your peer will have identical data in your respective _**repositories**_. ", 
     
     "faqTitle6b": "How can I know when the syncing of my repositories is completed?", 
     "faqContent6b1": "During the syncing, you will see these symbols next to the _**repository**_ name.", 
