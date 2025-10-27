@@ -313,7 +313,7 @@
     
     "faqTitle10b": "What can I do if I shared a link with a peer but I don’t want them to have access to that repository any more?", 
     "faqContent10b1": "Currently, the Ouisync app does not provide a one click solution for revoking the _**repository**_ access.  As a workaround, this is what you can do: ",
-    "faqContent10b2": "- create a new _**repository**_,which you will not share with the same person, ",
+    "faqContent10b2": "- create a new _**repository**_, which you will not share with the same person, ",
     "faqContent10b3": "- replicate the data from the previously shared _**repository**_ to the new one, ", 
     "faqContent10b4": "- if there are any files or folders that remain in the previously shared _**repository**_, delete them, ", 
     "faqContent10b5": "- share the new _**repository**_ only with people who you want to give access to and ask them not to share it further.", 
@@ -324,7 +324,7 @@
     "faqContent10c03": "From release 0.9.0, if a peer possesses appropriate links, they are able to change the type of access they have for a _**repository**_. ", 
     "faqContent10c04": "This can be done from the _**repository**_ **Security** page, by clicking on the blue link _**“Reset repository access using a share token”**_.",
     "faqContent10c05": "Let’s take a look at an example.",  
-    "faqContent10c06": "On this screenshot, the icon next to the green check indicates that this _**repository**_ can be edited, and the user has a **write** permissions for it.  From here, please enter the  _**repository**_ **Security** page.  ", 
+    "faqContent10c06": "On this screenshot, the icon next to the green check indicates that this _**repository**_ can be edited, and the user has a **write** permissions for it.  Tapping on the three dot menu on the right, will open the _**repository**_ **Settings** page.  Tap on **Security** to enter the  _**repository**_ **Security** page.  ", 
     "faqContent10c07": "Then, please tap on the **blue link**.  This will open the following screen ", 
     "faqContent10c08": "The upper part of this screen shows the current Repository name and access type. ", 
     "faqContent10c09": "To change the **access type**, you need to have a link that encodes the **access type** to which you want to change the current one.  ",
