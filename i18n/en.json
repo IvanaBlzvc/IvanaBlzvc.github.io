@@ -203,8 +203,11 @@
     "faqContent66": "The imported _**repository**_ will appear on your screen and after a short while all its content will be imported into your device.  In other words, the Ouisync _**repositories**_ on your devices will sync their data with the _**Ouisync repositories**_ on your peer’s device.  This will happen automatically, without the need for you to perform any further action. ",
    
     "faqTitle6a": "I have imported a repository - what should I do next?",
-    "faqContent6a1": "The first thing to do is to verify that your device is connected with the peer whose _**repository**_ you have imported.", 
-    "faqContent6a2": "To do do that, please go to the app **Settings**, and then scroll down to the **Peers** section.  Learn more about [peers and networking](#peers-and-networking).",
+    "faqContent6a1":"Generally speaking, you don’t have to do anything else for the content of this _**repository**_ to arrive to your device - if the sharing and receiving device are connected.", 
+    
+    "faqContent6a2": "To verify that devices in question are indeed connected, please go to the app **Settings**, and then scroll down to the **Peers** section. Tapping on it will open a screen that will show you a list of devices that are in status **Connected**.", 
+    "faqContent6a2a":"If the device whose repository you imported is in status **Connected**, syncing will start utomatically.", 
+    "fasContent6a2a":"Learn more about [peers and networking](#peers-and-networking).",
     "faqContent6a3": "When your device is connected to your peer's device, data in your respective _**repositories**_ will sync automatically.",
     "faqContent6a4": "As a user, you don't need to perform any additional action to make the syncing start.", 
     "faqContent6a5": "You can monitor the speed of data synchronisation by viewing the upload and dowload speeds to the right of the _**repository**_ name ",
