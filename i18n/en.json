@@ -94,11 +94,12 @@
     
     "faqTitle2a": "Can I delete my Ouisync repositories?",
     "faqContent2a1": "Yes. You can do that by going to **repository settings** screen and tapping on the **Delete** button.",
+    
     "faqTitle2b": "What happens to the contents when I delete a repository?", 
     "faqContent2b1": "When you delete a _**repository**_ on your device, this deletion is not propagated to your peer’s devices – they will still have all their _**repositories**_. ",
     "faqContent2b2": "If you delete a _**repository**_ that you have **not shared** with any other device or peer, then your Ouisync data is deleted. ",
     "faqContent2b3": "You can create a new _**repository**_ and upload the same files into it - if you have them somewhere else on your devices. ",
-    "faqContent2b4": "If your files have only been store in a Ouisync _**repository**_ which you did not share with anyone, and you delete that _**repository**_, your data will be lost.", 
+    "faqContent2b4": "If your files have only been stored in a Ouisync _**repository**_ which you did not share with anyone, and you delete that _**repository**_, your data will be lost.", 
     
     "faqTitle2c": "I have shared my repository then deleted it in error.  Can I undo this?", 
     "faqContent2c1": "If you delete a _**repository**_ that you have already **shared** with another device or peer, you can re-import it from them back into your primary device. ",
@@ -300,7 +301,7 @@
     "faqTitle10": "Can my peers re-share my links?",
     "faqContent100": "Yes. They can generate the **links** with the same permissions they had in the original **link** that they received from you, or lower. ",
     "faqContent101": "This means that if a person has received a **link** to import a _**repository**_ with **Write** permissions they are able to generate the same kind of link and re-share the same _**repository**_ with other people. They can also generate links for the same _**repository**_ but with lower permissions (**Read** or **Blind**). ",
-    "faqContent102": "If they imported a **_repository_** with **Read** permissions only, then they can share it with others as **Read** or **Blind**. If they imported your _**repository**_ as **Blind**, they can only share it as **Blind**. ",
+    "faqContent102": "If they imported a **_repository_** with **Read** permissions only, they can share it with others as **Read** or **Blind**. If they imported your _**repository**_ as **Blind**, they can only share it as **Blind**. ",
     "faqContent103": "This is similar to what happens when you send somebody an email - they can forward that email to other people.", 
     
     "faqTitle10a": "Can I revoke the link I have shared with a peer?",
