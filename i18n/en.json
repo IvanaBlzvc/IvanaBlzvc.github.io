@@ -220,7 +220,7 @@
     "faqContent700": "When sharing a _**repository**_, you can decide to share it with [Blind](#blind) permission.", 
     "faqContent701": "This means that it can be imported into another device and its purpose is simply to securely store data on that device.", 
     "faqContent702": "_Note: if your **blind** _**repository**_ is online at the same time as your other _**repositories**_, it will sync with your original _**repository**_._",
-    "faqContent703": "In other words, your **Blind** _**repository**_ will receive any updates that you make to your data.  If you rename, copy move or delete files in your original _**repository**_, they are going to be automatically renamed, copied, moved or deleted in your **Blind** _**repository**_ as well. ", 
+    "faqContent703": "In other words, your **Blind** _**repository**_ will receive any updates that you make to your data.  If you rename, copy, move or delete files in your original _**repository**_, they are going to be automatically renamed, copied, moved or deleted in your **Blind** _**repository**_ as well. ", 
 
     "faqTitle71": " Why is it called Secure Data Storage and  not simply Data Backup? ",
     "faqContent7101": "Typically, if you want to back up your data, the backups would be created by some utility program, and they would be timestamped.  Thus, if you needed to, you would be able to go back to the previous backed up version. ",
@@ -238,7 +238,7 @@
     "faqTitle73": "How can I store my data securely using Ouisync Blind repositories?", 
     "faqContent7300": "To do that, please follow these steps: ",
     "faqContent7301": "**Step 1:** Create a _**repository**_ in a normal way, and add data that you want to store to it. ",
-    "faqContent7302": "**Step 2:** Go to _**repository**_ settings, and tap of the **Share** button.  Select **Write** and copy the link.  (For more details see section [Sharing](#sharing)) ",
+    "faqContent7302": "**Step 2:** Go to _**repository**_ settings, and tap the **Share** button.  Select **Write** and copy the link.  (For more details see section [Sharing](#sharing)) ",
     "faqContent7303": "**Step 3:** Paste the **link** and keep it somewhere safe.  You will need it to retrieve the data from this _**repository**_ later on.  _**Note: if you lose it, there is no way to retrieve the data.  We do not keep your links anywhere on our systems**_.",
     "faqContent7304": "**Step 4:** Go back to _**repository**_ settings, tap the **Share** button and now select **Blind**, and either copy the link, share it or generate the QR code. ",
     "faqContent7305": "**Step 5:** Using a spare device (which we also refer to as storage device), [import](#import) this _**repository**_ with access mode **Blind** ",
