@@ -357,6 +357,15 @@
     
     "faqTitle14": "Can I move my files from one repository to another?",
     "faqContent140": "Yes. Moving files from one _**repository**_ to another is possible.",
+    "faqContent141": "To move a file to a different repository, tap on the three dot menu next to its name.  This will open the file options menu, where you can select Move.", 
+    "faqContent142": "Next, select the file that you want to move. ", 
+    "faqContent143": "After that you need to select the destination where you want to move the file to.  This can be a folder within the same repository",
+    "faqContent144": "or it can be a location in another repository.",
+    "faqContent145": "We also provide the way to move multiple files together. To do this, you need to first tap on the Select button",
+    "faqContent146": "This will allow you to make a selection of multiple files.", 
+    "faqContent147": "Next, you need to select the destination folder or repository.", 
+    "faqContent148": "And then tap on the Move button.  This completes the process. ," 
+    "faqContent149": "Copy function works the same way. ", 
 
     "faqTitle14a": "Can I share individual files with my peers? ",
     "faqContent14a1": "Yes, but...", 
