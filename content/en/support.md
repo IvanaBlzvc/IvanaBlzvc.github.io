@@ -640,6 +640,31 @@ date: 2023-07-10T12:14:12-04:00
 
 {{% render-i18n "faqContent140" %}}
 
+{{% render-i18n "faqContent141" %}}
+{{< figure src="/img/select-move-option.png" alt="Select move option" >}}
+
+{{% render-i18n "faqContent142" %}}
+{{< figure src="/img/select-file.png" alt="Select file to move" >}}
+
+{{% render-i18n "faqContent143" %}}
+{{< figure src="/img/select-destination-folder.png" alt="Select destination folder" >}}
+
+{{% render-i18n "faqContent144" %}}
+{{< figure src="/img/select-destination-repository.png" alt="Select destination repository" >}}
+
+{{% render-i18n "faqContent145" %}}
+{{< figure src="/img/tap-select-button.png" alt="Tap select button" >}}
+
+{{% render-i18n "faqContent146" %}}
+{{< figure src="/img/select-multiple-files.png" alt="Select multiple files" >}}
+
+{{% render-i18n "faqContent147" %}}
+{{< figure src="/img/destination-for-multiple-files.png" alt="Select destination for multiple files" >}}
+
+{{% render-i18n "faqContent148" %}}
+
+{{% render-i18n "faqContent149" %}}
+
 {{% /markdown %}}
 </details>
 
