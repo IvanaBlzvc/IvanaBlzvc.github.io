@@ -707,6 +707,31 @@ date: 2023-07-10T12:14:12-04:00
 </details>
 </div>
 
+<details>
+<summary>
+{{% render-i18n "faqTitle14c" %}}
+</summary>
+{{% markdown %}}
+
+{{% render-i18n "faqContent14bc0" %}}
+
+{{% render-i18n "faqContent14bc1" %}}
+
+{{% render-i18n "faqContent14bc2" %}}
+
+{{% render-i18n "faqContent14bc3" %}}
+{{< figure src="/img/browse-files-in-other-apps.png" alt="Browse files in other apps" >}}
+
+{{% render-i18n "faqContent14c4" %}}
+{{< figure src="/img/browse-files-from-ouisync.png" alt="Browse files from Ouisync" >}}
+{{% render-i18n "faqContent14c5" %}}
+{{< figure src="/img/browse-files-from-ouisync-repo.png" alt="Browse files from Ouisync repository" >}}
+
+{{% render-i18n "faqContent14c6" %}}
+
+{{% /markdown %}}
+</details>
+
 <div class="faq-subsection">
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
