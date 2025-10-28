@@ -659,7 +659,7 @@ date: 2023-07-10T12:14:12-04:00
 {{< figure src="/img/select-multiple-files.png" alt="Select multiple files" >}}
 
 {{% render-i18n "faqContent147" %}}
-{{< figure src="/img/destination-for-multiple-files.png" alt="Select destination for multiple files" >}}
+{{< figure src="/img/destination-repository-for-multiple-files.png" alt="Select destination for multiple files" >}}
 
 {{% render-i18n "faqContent148" %}}
 
