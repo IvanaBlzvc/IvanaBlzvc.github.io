@@ -381,8 +381,8 @@
     "faqContent14b3": "Tapping the Ouisync icon here, opens the Ouisync app screens, where you can choose the location where you want your shared file to reside in within the Ouiysnc app.",
     
     "faqTitle14c": "Can I access the files in my Ouisync _**repositories**_ from another Android app?", 
-    "faqContent14c0": "Short answer: yes."
-    "faqContent14c1": "Ouisync can be accessed from other android apps.  ", 
+    "faqContent14c0": "Short answer: yes.",
+    "faqContent14c1": "Ouisync can be accessed from other android apps.", 
     "faqContent14c2": "For example: let’s imagine you want to attach a file that you have in a Ouisync _**repository**_ to a message in Signal.  You can do that as follows:",
     "faqContent14c3": "Create a new message and tap on the plus button (or a paperclip) to attach a file to it.  This will open a screen where you can select a file, or an app. ", 
     "faqContent14c4": "Select Ouisync.  Then you will see a screen that lists your exisitng Ouisync _**repositories**_.",
