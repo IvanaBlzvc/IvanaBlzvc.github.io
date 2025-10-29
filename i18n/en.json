@@ -536,8 +536,7 @@
     
     "faqTitle20a1": "How does Ouisync app find my peers on the internet?", 
     "faqContent20a11": "To discover peers on the internet, Ouisync app uses **Bittorrent DHT** and the process of **Peer exchange**.", 
-    "faqContent20a12": "Because there is no central server to handle requests for data upload or download, peers within the DHT will exchange the IP addresses of the peers they know about.",
-    "faqContent20a13": "Here’s a nice article about how this usually happens [The BitTorrent DHT and Decentralized Content Sharing](https://medium.com/@kyodo-tech/the-bittorrent-dht-and-decentralized-content-sharing-bb91befdb294). ",
+    "faqContent20a12": "Because there is no central server to handle requests for data upload or download, peers within the DHT will exchange the IP addresses of the peers they know about.", 
     "faqContent20a14": "Through these processes, your IP address may become known wthin the **Bittorrent DHT network**.  However, only the peers who possess the **Ouisync link** that you shared or that other peers shared with you, will be able to connect to your device and sync files with you. ",
 
     "faqTitle20a2": "How can I know if my device is connected to any peers? ", 
