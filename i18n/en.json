@@ -141,7 +141,7 @@
     "faqContent3d2": "For example - you have a _**repository**_ that you share between your Android phones and your Windows desktop.  You can have one **password** for that _**repository**_ on your Android phone, and a different password for the same _**repository**_ on your Windows machine.", 
     
     "faqTitle3e": "What happens if I lose my repository password?",
-    "faqContent3e01": "The first thing to know is that wWe don’t store your passwords, and because Ouisync is a peer-to-peer app,there isn’t a mechanism to reset your password that you may be used to in apps that have central servers. ",
+    "faqContent3e01": "The first thing to know is that we don’t store your passwords, and because Ouisync is a peer-to-peer app, there isn’t a mechanism to reset your password that you may be used to in apps that have central servers. ",
     "faqContent3e02": "There are a few different scenarios that may play out if you lose or forget your password.", 
     "faqContent3e03": "Losing the password for a _**repository**_ that you shared with your peers", 
     "faqContent3e04": "If you lose a password, it can happen that you are not able to unlock the _**repository**_ that you previously locked. ",
