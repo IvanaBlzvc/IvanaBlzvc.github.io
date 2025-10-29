@@ -641,25 +641,25 @@ date: 2023-07-10T12:14:12-04:00
 {{% render-i18n "faqContent140" %}}
 
 {{% render-i18n "faqContent141" %}}
-{{< figure src="/img/select-move-option.png" alt="Select move option" >}}
+{{< figure src="/img/select_move_option.png" alt="Select move option" >}}
 
 {{% render-i18n "faqContent142" %}}
-{{< figure src="/img/select-file.png" alt="Select file to move" >}}
+{{< figure src="/img/select_file.png" alt="Select file to move" >}}
 
 {{% render-i18n "faqContent143" %}}
-{{< figure src="/img/select-destination-folder.png" alt="Select destination folder" >}}
+{{< figure src="/img/select_destination_folder.png" alt="Select destination folder" >}}
 
 {{% render-i18n "faqContent144" %}}
-{{< figure src="/img/select-destination-repository.png" alt="Select destination repository" >}}
+{{< figure src="/img/select_destination_repository.png" alt="Select destination repository" >}}
 
 {{% render-i18n "faqContent145" %}}
-{{< figure src="/img/tap-select-button.png" alt="Tap select button" >}}
+{{< figure src="/img/tap_select_button.png" alt="Tap select button" >}}
 
 {{% render-i18n "faqContent146" %}}
-{{< figure src="/img/select-multiple-files.png" alt="Select multiple files" >}}
+{{< figure src="/img/select_multiple_files.png" alt="Select multiple files" >}}
 
 {{% render-i18n "faqContent147" %}}
-{{< figure src="/img/destination-repository-for-multiple-files.png" alt="Select destination for multiple files" >}}
+{{< figure src="/img/destination_repository_for_multiple_files.png" alt="Select destination for multiple files" >}}
 
 {{% render-i18n "faqContent148" %}}
 
@@ -720,12 +720,12 @@ date: 2023-07-10T12:14:12-04:00
 {{% render-i18n "faqContent14bc2" %}}
 
 {{% render-i18n "faqContent14bc3" %}}
-{{< figure src="/img/browse-files-in-other-apps.png" alt="Browse files in other apps" >}}
+{{< figure src="/img/browse_files_in_other_apps.png" alt="Browse files in other apps" >}}
 
 {{% render-i18n "faqContent14c4" %}}
-{{< figure src="/img/browse-files-from-ouisync.png" alt="Browse files from Ouisync" >}}
+{{< figure src="/img/browse_files_from_ouisync.png" alt="Browse files from Ouisync" >}}
 {{% render-i18n "faqContent14c5" %}}
-{{< figure src="/img/browse-files-from-ouisync-repo.png" alt="Browse files from Ouisync repository" >}}
+{{< figure src="/img/browse_files_from_ouisync_repo.png" alt="Browse files from Ouisync repository" >}}
 
 {{% render-i18n "faqContent14c6" %}}
 
