@@ -640,6 +640,31 @@ date: 2023-07-10T12:14:12-04:00
 
 {{% render-i18n "faqContent140" %}}
 
+{{% render-i18n "faqContent141" %}}
+{{< figure src="/img/select_move_option.png" alt="Select move option" >}}
+
+{{% render-i18n "faqContent142" %}}
+{{< figure src="/img/select_file.png" alt="Select file to move" >}}
+
+{{% render-i18n "faqContent143" %}}
+{{< figure src="/img/select_destination_folder.png" alt="Select destination folder" >}}
+
+{{% render-i18n "faqContent144" %}}
+{{< figure src="/img/select_destination_repository.png" alt="Select destination repository" >}}
+
+{{% render-i18n "faqContent145" %}}
+{{< figure src="/img/tap_select_button.png" alt="Tap select button" >}}
+
+{{% render-i18n "faqContent146" %}}
+{{< figure src="/img/select_multiple_files.png" alt="Select multiple files" >}}
+
+{{% render-i18n "faqContent147" %}}
+{{< figure src="/img/destination_repository_for_multiple_files.png" alt="Select destination for multiple files" >}}
+
+{{% render-i18n "faqContent148" %}}
+
+{{% render-i18n "faqContent149" %}}
+
 {{% /markdown %}}
 </details>
 
@@ -682,6 +707,31 @@ date: 2023-07-10T12:14:12-04:00
 </details>
 </div>
 
+<details>
+<summary>
+{{% render-i18n "faqTitle14c" %}}
+</summary>
+{{% markdown %}}
+
+{{% render-i18n "faqContent14bc0" %}}
+
+{{% render-i18n "faqContent14bc1" %}}
+
+{{% render-i18n "faqContent14bc2" %}}
+
+{{% render-i18n "faqContent14bc3" %}}
+{{< figure src="/img/browse_files_in_other_apps.png" alt="Browse files in other apps" >}}
+
+{{% render-i18n "faqContent14c4" %}}
+{{< figure src="/img/browse_files_from_ouisync.png" alt="Browse files from Ouisync" >}}
+{{% render-i18n "faqContent14c5" %}}
+{{< figure src="/img/browse_files_from_ouisync_repo.png" alt="Browse files from Ouisync repository" >}}
+
+{{% render-i18n "faqContent14c6" %}}
+
+{{% /markdown %}}
+</details>
+
 <div class="faq-subsection">
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
@@ -722,7 +772,7 @@ date: 2023-07-10T12:14:12-04:00
 {{% render-i18n "faqContent15a2" %}}
 
 {{% render-i18n "faqContent15a3" %}}
-{{< figure src="/img/090_repository_options.png" alt="Repository options window" >}}
+{{< figure src="/img/repository_options.png" alt="Repository options window" >}}
 
 {{% /markdown %}}
 </details>
@@ -1140,8 +1190,6 @@ date: 2023-07-10T12:14:12-04:00
 {{% render-i18n "faqContent20a11" %}}
 
 {{% render-i18n "faqContent20a12" %}}
-
-{{% render-i18n "faqContent20a13" %}}
 
 {{% render-i18n "faqContent20a14" %}}
 
