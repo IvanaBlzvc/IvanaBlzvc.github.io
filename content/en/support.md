@@ -560,7 +560,7 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "faqSectionTitle1" %}}
+## {{% render-i18n "faqSectionTitle07" %}}
 {{% /center %}}
 
 
@@ -568,25 +568,25 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle11" %}}
+{{% render-i18n "faqTitle0701" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent110" %}}
+{{% render-i18n "faqContent070101" %}}
 
-#### {{% render-i18n "faqContent111" %}}
+#### {{% render-i18n "faqContent070102" %}}
 
-{{% render-i18n "faqContent112" %}}
+{{% render-i18n "faqContent070103" %}}
 
 
 {{< figure src="/img/080_concurrent_edit_shadow.png" alt="Synchronous edits file handling" >}}
 
-{{% render-i18n "faqContent113" %}}
+{{% render-i18n "faqContent070104" %}}
 
-#### {{% render-i18n "faqContent114" %}}
+#### {{% render-i18n "faqContent070105" %}}
 
-{{% render-i18n "faqContent115" %}}
-{{% render-i18n "faqContent116" %}}
+{{% render-i18n "faqContent070106" %}}
+{{% render-i18n "faqContent070107" %}}
 {{< figure src="/img/free_test_data.png" alt="Asynchronous sync file handling" >}}
 
 {{% /markdown %}}
@@ -597,21 +597,21 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle12" %}}
+{{% render-i18n "faqTitle0702" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent120" %}}
+{{% render-i18n "faqContent070201" %}}
 
-{{% render-i18n "faqContent121" %}}
+{{% render-i18n "faqContent070202" %}}
 
-{{% render-i18n "faqContent122" %}}
+{{% render-i18n "faqContent070203" %}}
 {{< figure src="/img/090_file_options_write.png" alt="File options in write repositories" >}}
 
-{{% render-i18n "faqContent123" %}}
+{{% render-i18n "faqContent070204" %}}
 {{< figure src="/img/090_file_options_read.png" alt="File options in read repositories" >}}
 
-{{% render-i18n "faqContent124" %}}
+{{% render-i18n "faqContent070205" %}}
 
 
 {{% /markdown %}}
@@ -619,84 +619,84 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle13" %}}
+{{% render-i18n "faqTitle0703" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent130" %}}
+{{% render-i18n "faqContent070301" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle14" %}}
+{{% render-i18n "faqTitle0704" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent140" %}}
+{{% render-i18n "faqContent070401" %}}
 
-{{% render-i18n "faqContent141" %}}
+{{% render-i18n "faqContent070402" %}}
 {{< figure src="/img/select_move_option.png" alt="Select move option" >}}
 
-{{% render-i18n "faqContent142" %}}
+{{% render-i18n "faqContent070403" %}}
 {{< figure src="/img/select_file.png" alt="Select file to move" >}}
 
-{{% render-i18n "faqContent143" %}}
+{{% render-i18n "faqContent070404" %}}
 {{< figure src="/img/select_destination_folder.png" alt="Select destination folder" >}}
 
-{{% render-i18n "faqContent144" %}}
+{{% render-i18n "faqContent070405" %}}
 {{< figure src="/img/select_destination_repository.png" alt="Select destination repository" >}}
 
-{{% render-i18n "faqContent145" %}}
+{{% render-i18n "faqContent070406" %}}
 {{< figure src="/img/tap_select_button.png" alt="Tap select button" >}}
 
-{{% render-i18n "faqContent146" %}}
+{{% render-i18n "faqContent070407" %}}
 {{< figure src="/img/select_multiple_files.png" alt="Select multiple files" >}}
 
-{{% render-i18n "faqContent147" %}}
+{{% render-i18n "faqContent070408" %}}
 {{< figure src="/img/destination_repository_for_multiple_files.png" alt="Select destination for multiple files" >}}
 
-{{% render-i18n "faqContent148" %}}
+{{% render-i18n "faqContent070409" %}}
 
-{{% render-i18n "faqContent149" %}}
-
-{{% /markdown %}}
-</details>
-
-<details>
-<summary>
-{{% render-i18n "faqTitle14a" %}}
-</summary>
-{{% markdown %}}
-
-{{% render-i18n "faqContent14a1" %}}
-
-{{% render-i18n "faqContent14a2" %}}
-{{< figure src="/img/share.png" alt="Share button" >}}
-
-{{% render-i18n "faqContent14a3" %}}
-
-{{% render-i18n "faqContent14a4" %}}
-
-{{% render-i18n "faqContent14a5" %}}
-
-{{% render-i18n "faqContent14a6" %}}
+{{% render-i18n "faqContent070410" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle14b" %}}
+{{% render-i18n "faqTitle0705" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent14b1" %}}
+{{% render-i18n "faqContent070501" %}}
+
+{{% render-i18n "faqContent070502" %}}
 {{< figure src="/img/share.png" alt="Share button" >}}
-{{% render-i18n "faqContent14b2" %}}
+
+{{% render-i18n "faqContent070503" %}}
+
+{{% render-i18n "faqContent070504" %}}
+
+{{% render-i18n "faqContent070505" %}}
+
+{{% render-i18n "faqContent070506" %}}
+
+{{% /markdown %}}
+</details>
+
+<details>
+<summary>
+{{% render-i18n "faqTitle0706" %}}
+</summary>
+{{% markdown %}}
+
+{{% render-i18n "faqContent070601" %}}
+{{< figure src="/img/share.png" alt="Share button" >}}
+{{% render-i18n "faqContent070602" %}}
 {{< figure src="/img/082_select_app_shadow.png" alt="Select app" >}}
-{{% render-i18n "faqContent14b3" %}}
+{{% render-i18n "faqContent070603" %}}
 {{< figure src="/img/082_select_location_shadow.png" alt="Select location" >}}
 
 {{% /markdown %}}
@@ -705,25 +705,25 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle14c" %}}
+{{% render-i18n "faqTitle0707" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent14bc0" %}}
+{{% render-i18n "faqContent070701" %}}
 
-{{% render-i18n "faqContent14bc1" %}}
+{{% render-i18n "faqContent070702" %}}
 
-{{% render-i18n "faqContent14bc2" %}}
+{{% render-i18n "faqContent070703" %}}
 
-{{% render-i18n "faqContent14bc3" %}}
+{{% render-i18n "faqContent070704" %}}
 {{< figure src="/img/browse_files_in_other_apps.png" alt="Browse files in other apps" >}}
 
-{{% render-i18n "faqContent14c4" %}}
+{{% render-i18n "faqContent070705" %}}
 {{< figure src="/img/browse_files_from_ouisync.png" alt="Browse files from Ouisync" >}}
-{{% render-i18n "faqContent14c5" %}}
+{{% render-i18n "faqContent070706" %}}
 {{< figure src="/img/browse_files_from_ouisync_repo.png" alt="Browse files from Ouisync repository" >}}
 
-{{% render-i18n "faqContent14c6" %}}
+{{% render-i18n "faqContent070707" %}}
 
 {{% /markdown %}}
 </details>
