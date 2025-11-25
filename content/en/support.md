@@ -70,19 +70,19 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle5" %}}
+{{% render-i18n "faqTitle0202" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent50" %}}
+{{% render-i18n "faqContent020201" %}}
 {{< figure src="/img/080_plus_button.png" alt="Tap the Plus button" >}}
 
-{{% render-i18n "faqContent51" %}}
+{{% render-i18n "faqContent020202" %}}
 {{< figure src="/img/080_add_folder_files_shadow.png" alt="Add folders or files" >}}
 
-{{% render-i18n "faqContent52" %}}
+{{% render-i18n "faqContent020203" %}}
 {{< figure src="/img/080_create_folder_shadow.png" alt="Create a new folder" >}}
 
-{{% render-i18n "faqContent53" %}}
+{{% render-i18n "faqContent020204" %}}
 {{% /markdown %}}
 </details> 
 </div>
@@ -91,55 +91,55 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 <div id="import">
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "importRepositories" %}}
+## {{% render-i18n "faqSectionTitle03" %}}
 {{% /center %}}
 </div>
 <details>
 <summary>
-{{% render-i18n "faqTitle6" %}}
+{{% render-i18n "faqTitle0301" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent60" %}}
-{{% render-i18n "faqContent61" %}}
+{{% render-i18n "faqContent030101" %}}
+{{% render-i18n "faqContent030102" %}}
 {{< figure src="/img/080_import_repo_shadow.png" alt="Select to import a repository" >}}
 
-{{% render-i18n "faqContent62" %}}
+{{% render-i18n "faqContent030103" %}}
 {{< figure src="/img/081_import_repo2_shadow.png" alt="Enter link or scan QR code" >}}
 
-{{% render-i18n "faqContent63" %}}
+{{% render-i18n "faqContent030104" %}}
 {{< figure src="/img/import_link.png" alt="Shared repository link" >}}
 
-{{% render-i18n "faqContent64" %}}
+{{% render-i18n "faqContent030105" %}}
 {{< figure src="/img/090_import_repo3_shadow.png" alt="Import repository screen" >}}
-{{% render-i18n "faqContent65" %}}
+{{% render-i18n "faqContent030106" %}}
 
-{{% render-i18n "faqContent66" %}}
+{{% render-i18n "faqContent030107" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle6a" %}}
+{{% render-i18n "faqTitle0302" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent6a1" %}}
+{{% render-i18n "faqContent030201" %}}
 
-{{% render-i18n "faqContent6a2" %}}
+{{% render-i18n "faqContent030202" %}}
 
-{{% render-i18n "faqContent6a3" %}}
+{{% render-i18n "faqContent030203" %}}
 
-{{% render-i18n "faqContent6a4" %}}
+{{% render-i18n "faqContent030204" %}}
 
-{{% render-i18n "faqContent6a5" %}}
+{{% render-i18n "faqContent030205" %}}
 {{< figure src="/img/082_speed_shadow.png" alt="Upload and download speed" >}}
 
-{{% render-i18n "faqContent6a6" %}}
+{{% render-i18n "faqContent030206" %}}
 {{< figure src="/img/082_percentage_synced_shadow.png" alt="Percentage of data synced" >}}
 
-{{% render-i18n "faqContent6a7" %}}
+{{% render-i18n "faqContent030207" %}}
 
 
 {{% /markdown %}}
@@ -149,14 +149,14 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle6b" %}}
+{{% render-i18n "faqTitle0303" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent6b1" %}}
+{{% render-i18n "faqContent030301" %}}
 {{< figure src="/img/082_sync_ongoing_shadow.png" alt="Syncing of your repository is ongoing" >}}
 
-{{% render-i18n "faqContent6b2" %}}
+{{% render-i18n "faqContent030302" %}}
 {{< figure src="/img/081_sync_complete_shadow.png" alt="Syncing of your repository is complete" >}}
 
 
