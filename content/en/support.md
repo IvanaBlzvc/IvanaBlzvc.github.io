@@ -732,42 +732,42 @@ date: 2023-07-10T12:14:12-04:00
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
 
-## {{% render-i18n "faqSectionTitle2" %}}
+## {{% render-i18n "faqSectionTitle08" %}}
 
 {{% /center %}}
 
 <details>
 <summary>
 <a name="privacy-and-security" style="text-decoration: none">
-{{% render-i18n "faqTitle15" %}}
+{{% render-i18n "faqTitle0801" %}}
 </a>   
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent150" %}}
+{{% render-i18n "faqContent080101" %}}
 
-{{% render-i18n "faqContent151" %}}
+{{% render-i18n "faqContent080102" %}}
 
-{{% render-i18n "faqContent151a" %}}
+{{% render-i18n "faqContent080103" %}}
 
-{{% render-i18n "faqContent151b" %}}
+{{% render-i18n "faqContent080104" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle15a" %}}
+{{% render-i18n "faqTitle0802" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent15a1" %}}
+{{% render-i18n "faqContent080201" %}}
 
 {{< figure src="/img/080_use_cache_server_shadow.png" alt="Use Cache Server toggle" >}}
 
-{{% render-i18n "faqContent15a2" %}}
+{{% render-i18n "faqContent080202" %}}
 
-{{% render-i18n "faqContent15a3" %}}
+{{% render-i18n "faqContent080203" %}}
 {{< figure src="/img/repository_options.png" alt="Repository options window" >}}
 
 {{% /markdown %}}
@@ -775,14 +775,14 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle15b" %}}
+{{% render-i18n "faqTitle0803" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent15b1" %}}
+{{% render-i18n "faqContent080301" %}}
 {{< figure src="/img/080_use_cache_server_shadow.png" alt="Use Cache Server" >}}
 
-{{% render-i18n "faqContent15b2" %}}
+{{% render-i18n "faqContent080302" %}}
 
 
 {{% /markdown %}}
@@ -790,111 +790,111 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle15c" %}}
+{{% render-i18n "faqTitle0804" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent15c1" %}}
+{{% render-i18n "faqContent080401" %}}
 {{< figure src="/img/080_dont_use_cache_server_shadow.png" alt="Do not Use Cache Server" >}}
 
-{{% render-i18n "faqContent15c2" %}}
+{{% render-i18n "faqContent080402" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle15d" %}}
+{{% render-i18n "faqTitle0805" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent15d1" %}}
+{{% render-i18n "faqContent080501" %}}
 
 {{% /markdown %}}
 </details>
 <details>
 <summary>
-{{% render-i18n "faqTitle16" %}}
+{{% render-i18n "faqTitle0806" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent160" %}}
-
-{{% /markdown %}}
-</details>
-
-<details>
-<summary>
-{{% render-i18n "faqTitle16a" %}}
-</summary>
-{{% markdown %}}
-
-{{% render-i18n "faqContent16a1" %}}
+{{% render-i18n "faqContent080601" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle16b" %}}
+{{% render-i18n "faqTitle0807" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent16b1" %}}
+{{% render-i18n "faqContent080701" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle17" %}}
+{{% render-i18n "faqTitle0808" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent170" %}}
-
-{{% /markdown %}}
-</details>
-<details>
-<summary>
-{{% render-i18n "faqTitle17a" %}}
-</summary>
-{{% markdown %}}
-
-{{% render-i18n "faqContent17a1" %}}
+{{% render-i18n "faqContent080801" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle18" %}}
+{{% render-i18n "faqTitle0809" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent180" %}}
+{{% render-i18n "faqContent080901" %}}
+
+{{% /markdown %}}
+</details>
+<details>
+<summary>
+{{% render-i18n "faqTitle0810" %}}
+</summary>
+{{% markdown %}}
+
+{{% render-i18n "faqContent081001" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle19" %}}
+{{% render-i18n "faqTitle0811" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent190" %}}
+{{% render-i18n "faqContent081101" %}}
+
+{{% /markdown %}}
+</details>
+
+<details>
+<summary>
+{{% render-i18n "faqTitle0812" %}}
+</summary>
+{{% markdown %}}
+
+{{% render-i18n "faqContent081201" %}}
 {{< figure src="/img/080_lock_button_shadow.png" alt="Do not Use Cache Server" >}}
 
-{{% render-i18n "faqContent191" %}}
+{{% render-i18n "faqContent081202" %}}
 
-{{% render-i18n "faqContent192" %}}
+{{% render-i18n "faqContent081203" %}}
 
-{{% render-i18n "faqContent193" %}}
+{{% render-i18n "faqContent081204" %}}
 
-{{% render-i18n "faqContent194" %}}
+{{% render-i18n "faqContent081205" %}}
 
-{{% render-i18n "faqContent195" %}}
+{{% render-i18n "faqContent081206" %}}
 
 {{% /markdown %}}
 </details>
