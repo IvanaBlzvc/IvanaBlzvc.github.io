@@ -321,6 +321,58 @@
     "faqContent070705": "Select Ouisync.  Then you will see a screen that lists your exisitng Ouisync _**repositories**_.",
     "faqContent070706": "Select a _**repository**_ to view the files within it, and then select a file you want to attach to your Signal message.",
     "faqContent070707": "That’s it.  You can now send a file that you imported directly from the Ouisync app.", 
+
+     "faqSectionTitle08": "Privacy, Security and Cache Server",
+    
+    "faqTitle0801": "Are my files stored on a server? Why?",
+    "faqContent080101": "Yes. They are stored fully encrypted in transport as well as at rest and are **not** readable by the server.",
+    "faqContent080102": "The  purpose of this temporary server storage is to facilitate file syncing between peers when they are not online at the same time or when they cannot establish a direct peer-to-peer connection.",
+    "faqContent080103": "If you want to share a _**repository**_ with a peer who is not online at the moment, your _**repository**_  data will be stored encrypted on the server and when your peer comes  online and connects to the server (or to your device) the files  from the stored _**repository**_ will sync with the files in your peer's repository.",
+    "faqContent080104": "The server is **zero-knowledge** and it's purpose is to ensure reachability by temporarily storing data and providing it to those who posses the corresponding **token link**.",
+    
+    "faqTitle0802": "Is there a way to opt-out?",
+    "faqContent080201": "Yes.",
+    "faqContent080202": "When creating or importing a _**repository**_, you can decide to use this option, or to opt out of it.",
+    "faqContent080203": "If you want to change your decision later on, you can do that in the _**repository**_ options screen. ",
+    
+    "faqTitle0803": "What happens when Use Cache Server is ON?",
+    "faqContent080301": "If this option is ON, your data is stored on the cache server for a short period of time.  The stored data is fully encrypted in transport as well as at rest and is not readable by the server.  ",
+    "faqContent080302": "When your peer comes online at the time when you are offline, they will connect to the server and  the stored _**repository**_ will sync with your peer's _**repository**_. ",
+    
+    "faqTitle0804": "What happens when Use Cache Server is OFF?",
+    "faqContent080401": "When this toggle is off your data is not stored on cache servers.  This means that you will be able to sync your _**repositories**_ only with peers  or devices that are online at the same time as you.  ",
+    "faqContent080402": "If you initially decide to **Use Cache Server** your _**repositories**_ are going to be temporarily stored on the **Cache Server**.  If you then decide to opt out and not use this option any more, your previously stored _**repositories**_ will be deleted from the server.  You can opt in or out as many times as you want.",
+    
+    "faqTitle0805": "Why don’t I see the Cache Server toggle?",
+    "faqContent080501": "You will see this toggle only for _**repositories**_ for which you have the **write access**.  For _**repositories**_ with read or blind access, this toggle is hidden.",
+    
+    "faqTitle0806": "How can I connect to the server?",
+    "faqContent080601": "If you select **Use Cache Server**  when you create a _**repository**_ ,your device will automatically connect to the cache server. You don't need to perform any additional actions.",
+    
+    "faqTitle0807": "How long is my data kept on the cache server?",
+    "faqContent080701": "We keep your data on our **Cache Server** for 24 hours after the last syncing activity.  This means that the server will help sync _**repositories**_ with your peers who are online at least once a day.  ",
+    
+    "faqTitle0808": "Cache Server size",
+    "faqContent080801": "Currently, the size of _**repositories**_ synced via our **Cache Server** is limited to 1GB.  If you try to sync more than 1GB of data, the server will sync 1GB and then stop.  We provide this service free of charge and have imposed the _**repository**_ limits to prevent abuse. ",
+    
+    "faqTitle0809": "Where is the Cache Server and who runs it?",
+    "faqContent080901": "The **Ouisync** servers are physically located in Canada and are managed by eQualitie.",
+    
+    "faqTitle0810": "Can I set up my own server to use with my peers?",
+    "faqContent081001": "Not yet.  We are working on it and in the near future you will be able to set up your own **Cache Server** to use with your peers.",
+    
+    "faqTitle0811": "What private data does Ouisync use/store?",
+    "faqContent081101": "**Ouisync** uses the IP addresses of your devices to be able to connect you with your peers in the peer-to-peer network. We don't store those IP addresses anywhere on our systems. We don't keep any other user data. ",
+    
+    "faqTitle0812": "How can I lock my repositories when I'm not actively using them?",
+    "faqContent081201": "To lock your _**repositories**_ when not actively working on them, tap on the **Lock** button.",
+    "faqContent081202": "To unlock them, first you need to tap on the _**repository**_ name.",
+    "faqContent081203": "If your _**repository**_ is protected by password or biometrics, enter the password or scan your fingerprint when prompted. Otherwise, just tap on the **Unlock** button and continue to work on your repository.",
+    "faqContent081204": "Note: Locked _**repositories**_ are not accessible in file explorer on your desktop machines. To be able to access them, you first need to unlock them via Ouisync app screens.",
+    "faqContent081205": "If on your Windows machine you notice that some _**repositories**_ are not displayed in file explorer, please check within the app to make sure they are unlocked.",
+    "faqContent081206": "If you are still not able to see them, please check our [Ouisync on Windows](#windows) or our [Troubleshooting](#troubleshooting) section.", 
+
+
     
     "faqSectionTitle2a": "Passwords and Biometrics",
     
@@ -400,57 +452,7 @@
     
     
    
-    "faqSectionTitle2": "Privacy, Security and Cache Server",
-    
-    "faqTitle15": "Are my files stored on a server? Why?",
-    "faqContent150": "Yes. They are stored fully encrypted in transport as well as at rest and are **not** readable by the server.",
-    "faqContent151": "The  purpose of this temporary server storage is to facilitate file syncing between peers when they are not online at the same time or when they cannot establish a direct peer-to-peer connection.",
-    "faqContent151a": "If you want to share a _**repository**_ with a peer who is not online at the moment, your _**repository**_  data will be stored encrypted on the server and when your peer comes  online and connects to the server (or to your device) the files  from the stored _**repository**_ will sync with the files in your peer's repository.",
-    "faqContent151b": "The server is **zero-knowledge** and it's purpose is to ensure reachability by temporarily storing data and providing it to those who posses the corresponding **token link**.",
-    
-    "faqTitle15a": "Is there a way to opt-out?",
-    "faqContent15a1": "Yes.",
-    "faqContent15a2": "When creating or importing a _**repository**_, you can decide to use this option, or to opt out of it.",
-    "faqContent15a3": "If you want to change your decision later on, you can do that in the _**repository**_ options screen. ",
-    
-    "faqTitle15b": "What happens when Use Cache Server is ON?",
-    "faqContent15b1": "If this option is ON, your data is stored on the cache server for a short period of time.  The stored data is fully encrypted in transport as well as at rest and is not readable by the server.  ",
-    "faqContent15b2": "When your peer comes online at the time when you are offline, they will connect to the server and  the stored _**repository**_ will sync with your peer's _**repository**_. ",
-    
-    "faqTitle15c": "What happens when Use Cache Server is OFF?",
-    "faqContent15c1": "When this toggle is off your data is not stored on cache servers.  This means that you will be able to sync your _**repositories**_ only with peers  or devices that are online at the same time as you.  ",
-    "faqContent15c2": "If you initially decide to **Use Cache Server** your _**repositories**_ are going to be temporarily stored on the **Cache Server**.  If you then decide to opt out and not use this option any more, your previously stored _**repositories**_ will be deleted from the server.  You can opt in or out as many times as you want.",
-    
-    "faqTitle15d": "Why don’t I see the Cache Server toggle?",
-    "faqContent15d1": "You will see this toggle only for _**repositories**_ for which you have the **write access**.  For _**repositories**_ with read or blind access, this toggle is hidden.",
-    
-    "faqTitle16": "How can I connect to the server?",
-    "faqContent160": "If you select **Use Cache Server**  when you create a _**repository**_ ,your device will automatically connect to the cache server. You don't need to perform any additional actions.",
-    
-    "faqTitle16a": "How long is my data kept on the cache server?",
-    "faqContent16a1": "We keep your data on our **Cache Server** for 24 hours after the last syncing activity.  This means that the server will help sync _**repositories**_ with your peers who are online at least once a day.  ",
-    
-    "faqTitle16b": "Cache Server size",
-    "faqContent16b1": "Currently, the size of _**repositories**_ synced via our **Cache Server** is limited to 1GB.  If you try to sync more than 1GB of data, the server will sync 1GB and then stop.  We provide this service free of charge and have imposed the _**repository**_ limits to prevent abuse. ",
-    
-    "faqTitle17": "Where is the Cache Server and who runs it?",
-    "faqContent170": "The **Ouisync** servers are physically located in Canada and are managed by eQualitie.",
-    
-    "faqTitle17a": "Can I set up my own server to use with my peers?",
-    "faqContent17a1": "Not yet.  We are working on it and in the near future you will be able to set up your own **Cache Server** to use with your peers.",
-    
-    "faqTitle18": "What private data does Ouisync use/store?",
-    "faqContent180": "**Ouisync** uses the IP addresses of your devices to be able to connect you with your peers in the peer-to-peer network. We don't store those IP addresses anywhere on our systems. We don't keep any other user data. ",
-    
-    "faqTitle19": "How can I lock my repositories when I'm not actively using them?",
-    "faqContent190": "To lock your _**repositories**_ when not actively working on them, tap on the **Lock** button.",
-    "faqContent191": "To unlock them, first you need to tap on the _**repository**_ name.",
-    "faqContent192": "If your _**repository**_ is protected by password or biometrics, enter the password or scan your fingerprint when prompted. Otherwise, just tap on the **Unlock** button and continue to work on your repository.",
-    "faqContent193": "Note: Locked _**repositories**_ are not accessible in file explorer on your desktop machines. To be able to access them, you first need to unlock them via Ouisync app screens.",
-    "faqContent194": "If on your Windows machine you notice that some _**repositories**_ are not displayed in file explorer, please check within the app to make sure they are unlocked.",
-    "faqContent195": "If you are still not able to see them, please check our [Ouisync on Windows](#windows) or our [Troubleshooting](#troubleshooting) section.", 
-
-
+   
     
 
     
