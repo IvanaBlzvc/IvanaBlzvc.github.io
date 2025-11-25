@@ -241,7 +241,7 @@ date: 2023-07-10T12:14:12-04:00
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
 
-## {{% render-i18n "faqSectionTitle0" %}}
+## {{% render-i18n "faqSectionTitle05" %}}
 
 {{% /center%}}
 
@@ -250,83 +250,83 @@ date: 2023-07-10T12:14:12-04:00
 <details>
 <summary>
 <a name="sharing" style="text-decoration: none">
-{{% render-i18n "faqTitle8" %}}
+{{% render-i18n "faqTitle0501" %}}
 </a>
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent80" %}}
+{{% render-i18n "faqContent050101" %}}
 {{< figure src="/img/share.png" alt="Select to share a repository" >}}
   
-{{% render-i18n "faqContent80a" %}}
+{{% render-i18n "faqContent050102" %}}
 {{< figure src="/img/080_share_repo_shadow.png" alt="Sharing options" >}}
 
-{{% render-i18n "faqContent80b" %}}
+{{% render-i18n "faqContent050103" %}}
 {{% /markdown %}}
 </details>
 
 <details>
   <summary>
     <a name="blind" style="text-decoration:none">
-  {{% render-i18n "faqTitle9" %}}
+  {{% render-i18n "faqTitle0502" %}}
     </a>
 </summary>
 {{% markdown %}} 
 
-{{% render-i18n "faqContent900" %}} 
-{{% render-i18n "faqContent901" %}} 
+{{% render-i18n "faqContent050201" %}} 
+{{% render-i18n "faqContent050202" %}} 
 
-
-### {{% render-i18n "faqContent90" %}}
+### {{% render-i18n "faqContent050203" %}}
  
-{{% render-i18n "faqContent91" %}}
+{{% render-i18n "faqContent050204" %}}
 {{< figure src="/img/080_share_write_shadow.png" alt="Select Write permissions" >}}
 
-{{% render-i18n "faqContent92" %}}
+{{% render-i18n "faqContent050205" %}}
 
-{{% render-i18n "faqContent92a" %}}
-### {{% render-i18n "faqContent93" %}}
+{{% render-i18n "faqContent050206" %}}
 
-{{% render-i18n "faqContent94" %}}
+### {{% render-i18n "faqContent050307" %}}
+
+{{% render-i18n "faqContent050208" %}}
 {{< figure src="/img/080_share_read_shadow.png" alt="Select Read permissions" >}}
-{{% render-i18n "faqContent95" %}}
+{{% render-i18n "faqContent050209" %}}
 
 
-### {{% render-i18n "faqContent96" %}}
+### {{% render-i18n "faqContent050210" %}}
 
 {{< figure src="/img/080_share_blind_shadow.png" alt="Select Blind permissions" >}}
 
-{{% render-i18n "faqContent97" %}}
+{{% render-i18n "faqContent050211" %}}
 
 {{% /markdown %}}  
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle91" %}}
+{{% render-i18n "faqTitle0503" %}}
 </summary>
 {{% markdown %}} 
 
-{{% render-i18n "faqContent910" %}}  
+{{% render-i18n "faqContent050301" %}}  
 {{< figure src="/img/080_link_or_qr_shadow.png" alt="Share Repository with a link or QR code" >}}
 
-{{% render-i18n "faqContent911" %}}
-{{% render-i18n "faqContent911a" %}}
+{{% render-i18n "faqContent050302" %}}
+{{% render-i18n "faqContent050303" %}}
 {{< figure src="/img/qr_code.png" alt="Repository QR code" >}}
   
-{{% render-i18n "faqContent912" %}}
+{{% render-i18n "faqContent050304" %}}
 
-{{% render-i18n "faqContent913" %}}
+{{% render-i18n "faqContent050305" %}}
 {{< figure src="/img/080_link_or_qr_shadow.png" alt="Share Repository with a link or QR code" >}}
 
-{{% render-i18n "faqContent914" %}}
+{{% render-i18n "faqContent050306" %}}
 
-{{% render-i18n "faqContent915" %}}
+{{% render-i18n "faqContent050307" %}}
 
-#### {{% render-i18n "faqContent915a" %}}
+#### {{% render-i18n "faqContent050308" %}}
 
-{{% render-i18n "faqContent916" %}}
+{{% render-i18n "faqContent050309" %}}
 
-{{% render-i18n "faqContent917" %}}
+{{% render-i18n "faqContent050310" %}}
 
 {{% /markdown %}}
 </details>
@@ -334,17 +334,17 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle10" %}}
+{{% render-i18n "faqTitle0504" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent100" %}}
+{{% render-i18n "faqContent050401" %}}
 
-{{% render-i18n "faqContent101" %}}
+{{% render-i18n "faqContent050402" %}}
 
-{{% render-i18n "faqContent102" %}}
+{{% render-i18n "faqContent050403" %}}
 
-{{% render-i18n "faqContent103" %}}
+{{% render-i18n "faqContent050404" %}}
 
 {{% /markdown %}}
 </details>
@@ -352,91 +352,87 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle10a" %}}
+{{% render-i18n "faqTitle0505" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent10a1" %}}
+{{% render-i18n "faqContent050501" %}}
 
-{{% render-i18n "faqContent10a2" %}}
+{{% render-i18n "faqContent050502" %}}
 
-{{% render-i18n "faqContent10a3" %}}
+{{% render-i18n "faqContent050503" %}}
 
-{{% render-i18n "faqContent10a4" %}}
+{{% render-i18n "faqContent050504" %}}
 
-{{% render-i18n "faqContent10a5" %}}
+{{% render-i18n "faqContent050505" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle10b" %}}
+{{% render-i18n "faqTitle0506" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent10b1" %}}
+{{% render-i18n "faqContent050601" %}}
 
-{{% render-i18n "faqContent10b2" %}}
+{{% render-i18n "faqContent050602" %}}
 
-{{% render-i18n "faqContent10b3" %}}
+{{% render-i18n "faqContent050603" %}}
 
-{{% render-i18n "faqContent10b4" %}}
+{{% render-i18n "faqContent050604" %}}
 
-{{% render-i18n "faqContent10b5" %}}
+{{% render-i18n "faqContent050605" %}}
 
 {{% /markdown %}}
 </details>
 <details>
 <summary>
 <a name="modify-access" style="text-decoration: none">
-{{% render-i18n "faqTitle10c" %}}
+{{% render-i18n "faqTitle0506" %}}
 </a>
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent10c01" %}}
+{{% render-i18n "faqContent050601" %}}
 
-{{% render-i18n "faqContent10c02" %}}
+{{% render-i18n "faqContent050602" %}}
 
-{{% render-i18n "faqContent10c03" %}}
+{{% render-i18n "faqContent050603" %}}
 
-{{% render-i18n "faqContent10c04" %}}
+{{% render-i18n "faqContent050604" %}}
 
-{{% render-i18n "faqContent10c05" %}}
+{{% render-i18n "faqContent050605" %}}
 {{< figure src="/img/090_repo_access_change_start_shadow.png" alt="Repository has write access" >}}
 
-{{% render-i18n "faqContent10c06" %}}
+{{% render-i18n "faqContent050606" %}}
 {{< figure src="/img/090_repo_access_blue_link_shadow.png" alt="Blue link in the repository security page" >}}
 
-{{% render-i18n "faqContent10c07" %}}
+{{% render-i18n "faqContent050607" %}}
 {{< figure src="/img/090_repo_access_shadow.png" alt="Repository access screen" >}}
 
-{{% render-i18n "faqContent10c08" %}}
+{{% render-i18n "faqContent050608" %}}
 
-{{% render-i18n "faqContent10c09" %}}
+{{% render-i18n "faqContent050609" %}}
 
-{{% render-i18n "faqContent10c10" %}}
+{{% render-i18n "faqContent050610" %}}
 {{< figure src="/img/090_repo_access1_shadow.png" alt="Enter new link" >}}
 
-{{% render-i18n "faqContent10c11" %}}
+{{% render-i18n "faqContent050611" %}}
 {{< figure src="/img/090_repo_access2_shadow.png" alt="Confirm changes" >}}
 
-{{% render-i18n "faqContent10c12" %}}
+{{% render-i18n "faqContent050612" %}}
 {{< figure src="/img/090_repo_access3_shadow.png" alt="Repository access modified" >}}
 
-{{% render-i18n "faqContent10c13" %}}
+{{% render-i18n "faqContent050613" %}}
 {{< figure src="/img/090_repo_access_change_done_shadow.png" alt="Repository access screen complete" >}}
 
-{{% render-i18n "faqContent10c14" %}}
+{{% render-i18n "faqContent050614" %}}
 
 {{% /markdown %}}
 </details>
-
-
 </div>
-
-
 
 
 <div class="faq-subsection">
