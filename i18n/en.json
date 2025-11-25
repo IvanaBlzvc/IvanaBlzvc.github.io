@@ -267,6 +267,60 @@
     "faqContent060514": "If you (or other peers) add files to your primary _**repository**_, that addition will be propagated to your **Blind** _**repository**_ too. If you (or other peers) delete any files in your primary _**repository**_, then that deletion will be propagated too.",
     "faqContent060515": "_**Note:** if you lose your **Write** link for your securely stored **Blind**  _**repository**_, and you did not share that _**repository**_ with anybody else, you won't be able to retrieve your stored data._ ",
     
+     "faqSectionTitle07": "File Management",
+    
+    "faqTitle0701": "What happens if my peers and myself upload the same file into Ouisync?",
+    "faqContent070101": "**Ouisync** is capable of handling two different scenarios.",
+    "faqContent070102": "Peers who are online at the same time",
+    "faqContent070103": "If you and one or more peers upload a file (for example Billy.jpg) that already exists in a **Ouisync** _**repository**_ , the app will detect this situation and ask if you want to keep both files or replace one of them.",
+    "faqContent070104": "If you decide to keep both of them, the new one will have (1) added to the name and you will see both files on your **Ouisync** screen. If you decide to replace the existing one, it will be overwritten. ",
+    "faqContent070105": "Peers who are offline at the time of uploading the files",
+    "faqContent070106": "If you and one or more peers upload the same file (for example Free_Test-Data_1MB.docx) when you are offline and therefore not able to sync files immediately, your files will sync when you are able to connect to your peers again.",
+    "faqContent070107": "In case of two or more files bearing the same name, **Ouisync** will detect this situation and it will add random string at the end of the name of each file - to distinguish between them.  You can then view them and decide which one to keep, whether to rename them etc.",
+    
+    "faqTitle0702": "What happens if I delete files in my repository?",
+    "faqContent070201": "File deletion is propagated to all replicas in existence - which means the same file that you deleted will be automatically deleted in the _**repositories**_ of all the peers who have imported your _**repository**_.",
+    "faqContent070202": "Equally, if your peers delete any files in any of the _**repositories**_ that they have imported from you, their file deletions will be propagated to your device too. It works both ways -i.e.: _**repositories**_ shared  with **Write** permissions will sync with each other, including all file operations.",
+    "faqContent070203": "File deletion is only possible in _**repositories**_ for which you have the **write** access.  The file options available in those _**repositories**_ are: ",
+    "faqContent070204": "The file options for _**repositories**_ to which you have only a **read** access are: ", 
+    "faqContent070205": "When you only have a **read** access, you cannot rename, move nor delete files.", 
+    
+    "faqTitle0703": "What happens if I rename files in my repository?",
+    "faqContent070301": "If you rename files in your _**repository**_, the new file name will be propagated to the _**repositories**_ of all the peers that you shared your _**repository**_ with.",
+    
+    "faqTitle0704": "Can I move my files from one repository to another?",
+    "faqContent070401": "Yes. Moving files from one _**repository**_ to another is possible.",
+    "faqContent070402": "To move a file to a different _**repository**_, tap on the three dot menu next to its name.  This will open the file options menu, where you can select **Move**.", 
+    "faqContent070403": "Next, select the file that you want to move. ", 
+    "faqContent070404": "After that you need to select the destination where you want to move the file to.  This can be a folder within the same _**repository**_",
+    "faqContent070405": "or it can be a location in another _**repository**_.",
+    "faqContent070406": "We also provide the way to move **multiple files** together. To do this, you need to first tap on the **Select** button",
+    "faqContent070407": "This will allow you to make a selection of multiple files.", 
+    "faqContent070408": "Next, you need to select the destination folder or _**repository**_.", 
+    "faqContent070409": "And then tap on the **Move** button.  This completes the process.", 
+    "faqContent070410": "**Copy** function works the same way. ", 
+
+    "faqTitle0705": "Can I share individual files with my peers? ",
+    "faqContent070501": "Yes, but...", 
+    "faqContent070502": "On Android, within the Ouisync file options, there is also the option to share them.", 
+    "faqContent070503": "Like in other apps, when you tap this option, another window will open offering you a choice of apps you can use to share this individual file.  ", 
+    "faqContent070504": "You can select any messaging app to send this file to your peers. ", 
+    "faqContent070505": "However, caution... If you do that, the file is not shared within the Ouisync any more, and therefore it is not protected by the Ouisync encryption. ",
+    "faqContent070506": "Within the Ouisync app itself, currently it is only possible to share whole repositories, and not individual files and folders.  ", 
+
+    "faqTitle0706": "Can I share files from my Android device into the Ouisync app?", 
+    "faqContent070601": "Yes.  When you see the familiar share symbol", 
+    "faqContent070602": "on your android device, tapping it normally brings up a window that offers you different apps you can use to share that file with.  One of those apps is the Ouisync app as well. ", 
+    "faqContent070603": "Tapping the Ouisync icon here, opens the Ouisync app screens, where you can choose the location where you want your shared file to reside in within the Ouiysnc app.",
+    
+    "faqTitle0707": "Can I access the files in my Ouisync _**repositories**_ from another Android app?", 
+    "faqContent070701": "Short answer: yes.",
+    "faqContent070702": "Ouisync can be accessed from other android apps.", 
+    "faqContent070703": "For example: let’s imagine you want to attach a file that you have in a Ouisync _**repository**_ to a message in Signal.  You can do that as follows:",
+    "faqContent070704": "Create a new message and tap on the plus button (or a paperclip) to attach a file to it.  This will open a screen where you can select a file, or an app. ", 
+    "faqContent070705": "Select Ouisync.  Then you will see a screen that lists your exisitng Ouisync _**repositories**_.",
+    "faqContent070706": "Select a _**repository**_ to view the files within it, and then select a file you want to attach to your Signal message.",
+    "faqContent070707": "That’s it.  You can now send a file that you imported directly from the Ouisync app.", 
     
     "faqSectionTitle2a": "Passwords and Biometrics",
     
@@ -345,61 +399,7 @@
      
     
     
-    "faqSectionTitle1": "File Management",
-    
-    "faqTitle11": "What happens if my peers and myself upload the same file into Ouisync?",
-    "faqContent110": "**Ouisync** is capable of handling two different scenarios.",
-    "faqContent111": "Peers who are online at the same time",
-    "faqContent112": "If you and one or more peers upload a file (for example Billy.jpg) that already exists in a **Ouisync** _**repository**_ , the app will detect this situation and ask if you want to keep both files or replace one of them.",
-    "faqContent113": "If you decide to keep both of them, the new one will have (1) added to the name and you will see both files on your **Ouisync** screen. If you decide to replace the existing one, it will be overwritten. ",
-    "faqContent114": "Peers who are offline at the time of uploading the files",
-    "faqContent115": "If you and one or more peers upload the same file (for example Free_Test-Data_1MB.docx) when you are offline and therefore not able to sync files immediately, your files will sync when you are able to connect to your peers again.",
-    "faqContent116": "In case of two or more files bearing the same name, **Ouisync** will detect this situation and it will add random string at the end of the name of each file - to distinguish between them.  You can then view them and decide which one to keep, whether to rename them etc.",
-    
-    "faqTitle12": "What happens if I delete files in my repository?",
-    "faqContent120": "File deletion is propagated to all replicas in existence - which means the same file that you deleted will be automatically deleted in the _**repositories**_ of all the peers who have imported your _**repository**_.",
-    "faqContent121": "Equally, if your peers delete any files in any of the _**repositories**_ that they have imported from you, their file deletions will be propagated to your device too. It works both ways -i.e.: _**repositories**_ shared  with **Write** permissions will sync with each other, including all file operations.",
-    "faqContent122": "File deletion is only possible in _**repositories**_ for which you have the **write** access.  The file options available in those _**repositories**_ are: ",
-    "faqContent123": "The file options for _**repositories**_ to which you have only a **read** access are: ", 
-    "faqContent124": "When you only have a **read** access, you cannot rename, move nor delete files.", 
-    
-    "faqTitle13": "What happens if I rename files in my repository?",
-    "faqContent130": "If you rename files in your _**repository**_, the new file name will be propagated to the _**repositories**_ of all the peers that you shared your _**repository**_ with.",
-    
-    "faqTitle14": "Can I move my files from one repository to another?",
-    "faqContent140": "Yes. Moving files from one _**repository**_ to another is possible.",
-    "faqContent141": "To move a file to a different _**repository**_, tap on the three dot menu next to its name.  This will open the file options menu, where you can select **Move**.", 
-    "faqContent142": "Next, select the file that you want to move. ", 
-    "faqContent143": "After that you need to select the destination where you want to move the file to.  This can be a folder within the same _**repository**_",
-    "faqContent144": "or it can be a location in another _**repository**_.",
-    "faqContent145": "We also provide the way to move **multiple files** together. To do this, you need to first tap on the **Select** button",
-    "faqContent146": "This will allow you to make a selection of multiple files.", 
-    "faqContent147": "Next, you need to select the destination folder or _**repository**_.", 
-    "faqContent148": "And then tap on the **Move** button.  This completes the process.", 
-    "faqContent149": "**Copy** function works the same way. ", 
-
-    "faqTitle14a": "Can I share individual files with my peers? ",
-    "faqContent14a1": "Yes, but...", 
-    "faqContent14a2": "On Android, within the Ouisync file options, there is also the option to share them.", 
-    "faqContent14a3": "Like in other apps, when you tap this option, another window will open offering you a choice of apps you can use to share this individual file.  ", 
-    "faqContent14a4": "You can select any messaging app to send this file to your peers. ", 
-    "faqContent14a5": "However, caution... If you do that, the file is not shared within the Ouisync any more, and therefore it is not protected by the Ouisync encryption. ",
-    "faqContent14a6": "Within the Ouisync app itself, currently it is only possible to share whole repositories, and not individual files and folders.  ", 
-
-    "faqTitle14b": "Can I share files from my Android device into the Ouisync app?", 
-    "faqContent14b1": "Yes.  When you see the familiar share symbol", 
-    "faqContent14b2": "on your android device, tapping it normally brings up a window that offers you different apps you can use to share that file with.  One of those apps is the Ouisync app as well. ", 
-    "faqContent14b3": "Tapping the Ouisync icon here, opens the Ouisync app screens, where you can choose the location where you want your shared file to reside in within the Ouiysnc app.",
-    
-    "faqTitle14c": "Can I access the files in my Ouisync _**repositories**_ from another Android app?", 
-    "faqContent14c0": "Short answer: yes.",
-    "faqContent14c1": "Ouisync can be accessed from other android apps.", 
-    "faqContent14c2": "For example: let’s imagine you want to attach a file that you have in a Ouisync _**repository**_ to a message in Signal.  You can do that as follows:",
-    "faqContent14c3": "Create a new message and tap on the plus button (or a paperclip) to attach a file to it.  This will open a screen where you can select a file, or an app. ", 
-    "faqContent14c4": "Select Ouisync.  Then you will see a screen that lists your exisitng Ouisync _**repositories**_.",
-    "faqContent14c5": "Select a _**repository**_ to view the files within it, and then select a file you want to attach to your Signal message.",
-    "faqContent14c6": "That’s it.  You can now send a file that you imported directly from the Ouisync app.", 
-    
+   
     "faqSectionTitle2": "Privacy, Security and Cache Server",
     
     "faqTitle15": "Are my files stored on a server? Why?",
