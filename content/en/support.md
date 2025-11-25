@@ -14,25 +14,25 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "gettingStart" %}}
+## {{% render-i18n "faqSectionTitle01" %}}
 {{% /center %}}
  
 <details>
 <summary>
-{{% render-i18n "faqTitle0" %}}
+{{% render-i18n "faqTitle0101" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent00" %}}
+{{% render-i18n "faqContent010101" %}}
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle1" %}}
+{{% render-i18n "faqTitle0102" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent10" %}}
+{{% render-i18n "faqContent010201" %}}
 
 {{< figure src="/img/080_my_repositories_shadow.png" alt="Ouisync home page listing your repositories">}}
 
@@ -42,28 +42,28 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "createRepositories" %}}
+## {{% render-i18n "faqSectionTitle02" %}}
 {{% /center %}}
 
 <details>
 <summary>
-{{% render-i18n "faqTitle2" %}}
+{{% render-i18n "faqTitle0201" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent20" %}}
+{{% render-i18n "faqContent020101" %}}
 {{< figure src="/img/080_plus_button.png" alt="Tap the Plus button" >}}
   
-{{% render-i18n "faqContent21" %}}
+{{% render-i18n "faqContent020102" %}}
 {{< figure src="/img/080_create_repository_shadow.png" alt="Select 'Create repository'" >}}
 
-{{% render-i18n "faqContent22" %}}
+{{% render-i18n "faqContent020103" %}}
 {{< figure src="/img/090_name_repo_shadow1.png" alt="Give your repository a nice name." >}}
 
-{{% render-i18n "faqContent23" %}}
+{{% render-i18n "faqContent020104" %}}
 
-{{% render-i18n "faqContent23a" %}}
+{{% render-i18n "faqContent020105" %}}
 
-{{% render-i18n "faqContent23b" %}}
+{{% render-i18n "faqContent020106" %}}
 
 {{% /markdown %}}
 </details> 
