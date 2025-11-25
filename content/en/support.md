@@ -168,67 +168,67 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "deleteRepositories" %}}
+## {{% render-i18n "faqSectionTitle04" %}}
 {{% /center %}}
 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle2a" %}}
+{{% render-i18n "faqTitle0401" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent2a1" %}}
+{{% render-i18n "faqContent040101" %}}
 {{< figure src="/img/delete_button.png" alt="Tap on Delete button." >}}
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle2b" %}}
+{{% render-i18n "faqTitle0402" %}}
 </summary>
 {{% markdown %}}
 
 
-{{% render-i18n "faqContent2b1" %}}
+{{% render-i18n "faqContent040201" %}}
 
-{{% render-i18n "faqContent2b2" %}}
+{{% render-i18n "faqContent040202" %}}
 
-{{% render-i18n "faqContent2b3" %}}
+{{% render-i18n "faqContent040203" %}}
 
-{{% render-i18n "faqContent2b4" %}}
+{{% render-i18n "faqContent040204" %}}
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle2c" %}}
+{{% render-i18n "faqTitle0403" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent2c1" %}}
+{{% render-i18n "faqContent040301" %}}
 
-{{% render-i18n "faqContent2c2" %}}
+{{% render-i18n "faqContent040302" %}}
 
-{{% render-i18n "faqContent2c3" %}}
+{{% render-i18n "faqContent040303" %}}
 
-#### {{% render-i18n "faqContent2c4" %}}
+#### {{% render-i18n "faqContent040304" %}}
 
-### {{% render-i18n "faqContent2c5" %}}
+### {{% render-i18n "faqContent040305" %}}
   
-{{% render-i18n "faqContent2c6" %}}
+{{% render-i18n "faqContent040306" %}}
 
-{{% render-i18n "faqContent2c7" %}}
+{{% render-i18n "faqContent040307" %}}
 
-{{% render-i18n "faqContent2c8" %}}
-{{% render-i18n "faqContent2c9" %}}
+{{% render-i18n "faqContent040308" %}}
+{{% render-i18n "faqContent040309" %}}
 
-{{% render-i18n "faqContent2c10" %}}
-{{% render-i18n "faqContent2c11" %}}
+{{% render-i18n "faqContent040310" %}}
+{{% render-i18n "faqContent040311" %}}
 
-{{% render-i18n "faqContent2c12" %}}
+{{% render-i18n "faqContent040312" %}}
 
-{{% render-i18n "faqContent2c13" %}}
+{{% render-i18n "faqContent040313" %}}
 
     
 {{% /markdown %}}
