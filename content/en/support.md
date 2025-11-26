@@ -1578,29 +1578,29 @@ date: 2023-07-10T12:14:12-04:00
 </div>
 <details>
 <summary>
-{{% render-i18n "faqTitle22" %}}
+{{% render-i18n "faqTitle1301" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent2201" %}}
+{{% render-i18n "faqContent130101" %}}
 {{< figure src="/img/082_red_dot_shadow.png" alt="Red dot warning" >}}
 
-{{% render-i18n "faqContent2202" %}}
+{{% render-i18n "faqContent130102" %}}
 
-### {{% render-i18n "faqContent2203" %}}
+### {{% render-i18n "faqContent130103" %}}
 
-{{% render-i18n "faqContent2204" %}}
+{{% render-i18n "faqContent130104" %}}
 
-{{% render-i18n "faqContent2205" %}}
+{{% render-i18n "faqContent130105" %}}
 
-### {{% render-i18n "faqContent2206" %}}
+### {{% render-i18n "faqContent130106" %}}
 
-{{% render-i18n "faqContent2207" %}}
+{{% render-i18n "faqContent130107" %}}
 
-{{% render-i18n "faqContent2208" %}}
+{{% render-i18n "faqContent130108" %}}
 
-{{% render-i18n "faqContent2209" %}}
+{{% render-i18n "faqContent130109" %}}
 
-{{% render-i18n "faqContent2210" %}}
+{{% render-i18n "faqContent130110" %}}
 {{< figure src="/img/082_new_version_available_shadow.png" alt="New version available warning" >}}
 
 
@@ -1611,7 +1611,7 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle23" %}}
+{{% render-i18n "faqTitle130" %}}
 </summary>
 {{% markdown %}}
   
