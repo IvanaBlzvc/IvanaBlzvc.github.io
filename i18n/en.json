@@ -99,7 +99,7 @@
     "faqContent020203": "If you decide to create a **new folder** this dialog box will allow you to do it: ",
     "faqContent020204": "Alternatively, you can import files into one of the existing folders. ",
     
-    "faqsectionTitle03": "Import Repositories",
+    "faqSectionTitle03": "Import Repositories",
     "faqTitle0301": "What does it mean to 'import' a repository?",
     "faqContent030101": "To import a _**repository**_ means that you want to recreate on your device a _**repository**_ that a peer has [shared](#sharing) with you. ",
     "faqContent030102": "You start with the **+** button and then select **Import**:",
