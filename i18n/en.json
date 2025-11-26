@@ -116,7 +116,7 @@
     "faqContent030204": "Learn more about [peers and networking](#peers-and-networking).",
     "faqContent030205": "You can monitor the speed of data synchronisation by viewing the upload and dowload speeds to the right of the _**repository**_ name ",
     "faqContent030206": "or you can go to **Repository Settings** screen and view the percentage of data synced (upper right hand corner). ", 
-    "faqContent030207": "If your devices are connected to each other, every time a person who has the **write** access to a _**repository**_ changes its content (add a file, delete, rename etc), theshared _**repositories**_ will automatically sync with each other. When syncing is complete, you and your peer will have identical data in your respective _**repositories**_. ", 
+    "faqContent030207": "If your devices are connected to each other, every time a person who has the **write** access to a _**repository**_ changes its content (add a file, delete, rename etc), the shared _**repositories**_ will automatically sync with each other. When syncing is complete, you and your peer will have identical data in your respective _**repositories**_. ", 
     
     "faqTitle0303": "How can I know when the syncing of my repositories is completed?", 
     "faqContent030301": "During the syncing, you will see these symbols next to the _**repository**_ name.", 
@@ -313,7 +313,7 @@
     "faqContent070602": "on your android device, tapping it normally brings up a window that offers you different apps you can use to share that file with.  One of those apps is the Ouisync app as well. ", 
     "faqContent070603": "Tapping the Ouisync icon here, opens the Ouisync app screens, where you can choose the location where you want your shared file to reside in within the Ouiysnc app.",
     
-    "faqTitle0707": "Can I access the files in my Ouisync _**repositories**_ from another Android app?", 
+    "faqTitle0707": "Can I access the files in my Ouisync repositories from another Android app?", 
     "faqContent070701": "Short answer: yes.",
     "faqContent070702": "Ouisync can be accessed from other android apps.", 
     "faqContent070703": "For example: let’s imagine you want to attach a file that you have in a Ouisync _**repository**_ to a message in Signal.  You can do that as follows:",
