@@ -1119,27 +1119,27 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "faqSectionTitle3" %}}</h1>
+## {{% render-i18n "faqSectionTitle10" %}}</h1>
 {{% /center %}}
 
 <details>
 <summary>
-{{% render-i18n "faqTitle20" %}}
+{{% render-i18n "faqTitle1001" %}}
 </summary>
 {{% markdown %}}
   
-### {{% render-i18n "faqContent200" %}}
-{{% render-i18n "faqContent201" %}}
+### {{% render-i18n "faqContent100101" %}}
+{{% render-i18n "faqContent100102" %}}
 
-{{% render-i18n "faqContent202" %}}
+{{% render-i18n "faqContent100103" %}}
 
-### {{% render-i18n "faqContent203" %}}
+### {{% render-i18n "faqContent100104" %}}
 
-{{% render-i18n "faqContent204" %}}
+{{% render-i18n "faqContent100105" %}}
 
-### {{% render-i18n "faqContent205" %}}
+### {{% render-i18n "faqContent100106" %}}
 
-{{% render-i18n "faqContent206" %}}
+{{% render-i18n "faqContent100107" %}}
 
 {{% /markdown %}}
 </details>
