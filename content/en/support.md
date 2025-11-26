@@ -1611,47 +1611,47 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle130" %}}
+{{% render-i18n "faqTitle1302" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent2301" %}}
+{{% render-i18n "faqContent130201" %}}
 {{< figure src="/img/082_orange_dot_shadow.png" alt="Orange dot warning" >}}
 
-{{% render-i18n "faqContent2302" %}}
+{{% render-i18n "faqContent130202" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle24" %}}
+{{% render-i18n "faqTitle1303" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent2401" %}}
+{{% render-i18n "faqContent130301" %}}
 {{< figure src="/img/082_linux_repos_shadow.png" alt="Repositories in linux file system" >}}
 
-{{% render-i18n "faqContent2402" %}}
+{{% render-i18n "faqContent130302" %}}
 
-{{% render-i18n "faqContent2403" %}}
+{{% render-i18n "faqContent130303" %}}
 
-{{% render-i18n "faqContent2404" %}}
+{{% render-i18n "faqContent130304" %}}
 
-{{% render-i18n "faqContent2405" %}}
+{{% render-i18n "faqContent130305" %}}
 
-{{% render-i18n "faqContent2406" %}}
+{{% render-i18n "faqContent130306" %}}
 {{< figure src="/img/082_linux_warning_shadow.png" alt="Repositories in linux - warning" >}}
 
-{{% render-i18n "faqContent2407" %}}
+{{% render-i18n "faqContent130307" %}}
 
-{{% render-i18n "faqContent2408" %}}
+{{% render-i18n "faqContent130308" %}}
 {{< figure src="/img/082_linux_exit_shadow.png" alt="Exit Ouisync app" >}}
 
-{{% render-i18n "faqContent2409" %}}
+{{% render-i18n "faqContent130309" %}}
 
-{{% render-i18n "faqContent2410" %}}
+{{% render-i18n "faqContent130310" %}}
 
-{{% render-i18n "faqContent2411" %}}
+{{% render-i18n "faqContent130311" %}}
 {{< figure src="/img/082_linux_repos_mounted_shadow.png" alt="Correctly mounted repositories in Linux" >}}
 
 
@@ -1660,62 +1660,62 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle25" %}}
+{{% render-i18n "faqTitle1304" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent2501" %}}
+{{% render-i18n "faqContent130401" %}}
 
-{{% render-i18n "faqContent2502" %}}
+{{% render-i18n "faqContent130402" %}}
 
-{{% render-i18n "faqContent2503" %}}
+{{% render-i18n "faqContent130403" %}}
 
-{{% render-i18n "faqContent2504" %}}
+{{% render-i18n "faqContent130404" %}}
 
-{{% render-i18n "faqContent2505" %}}
+{{% render-i18n "faqContent130405" %}}
 
-{{% render-i18n "faqContent2506" %}}
+{{% render-i18n "faqContent130406" %}}
 
-{{% render-i18n "faqContent2507" %}}
+{{% render-i18n "faqContent130407" %}}
 
-{{% render-i18n "faqContent2508" %}}
+{{% render-i18n "faqContent130408" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle26" %}}
+{{% render-i18n "faqTitle1305" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent2601" %}}
+{{% render-i18n "faqContent130501" %}}
 
-{{% render-i18n "faqContent2602" %}}
+{{% render-i18n "faqContent130502" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle27" %}}
+{{% render-i18n "faqTitle1306" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent2701" %}}
+{{% render-i18n "faqContent130601" %}}
 
-{{% render-i18n "faqContent2702" %}}
+{{% render-i18n "faqContent130602" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle28" %}}
+{{% render-i18n "faqTitle1307" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent2801" %}}
+{{% render-i18n "faqContent130701" %}}
 
 {{% /markdown %}}
 </details> 
