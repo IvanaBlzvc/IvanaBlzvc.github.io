@@ -446,6 +446,16 @@
     "faqContent091202": "If you switch the **biometric protection OFF**, you will still be required to scan your fingerprint when you want to enter the **Security screen**. ",
     "faqContent091203": "**Biometric protection** of the **Security screen** is deleted only when  **biometric protection** is removed from devices, or when you decide to use the **password** protection instead. ",
 
+    "faqSectionTitle10": "Ouisync compared to other apps",
+    
+    "faqTitle1001": "What are the advantages of using Ouisync over Dropbox, Google, or other similar solutions?",
+    "faqContent100101": "Free to use",
+    "faqContent100102": "To be able to share files using Dropbox, you need to create a Dropbox account. This requires your name, email, and credit card. It also requires payment. ",
+    "faqContent100103": "**Ouisync** is entirely free and open source software. To share files using **Ouisync**, you only need to install the app. That's it. No payment is required.",
+    "faqContent100104": "User account is not necessary",
+    "faqContent100105": "**Ouisync** does not require the creation of user accounts. With **Ouisync**, it is simply a matter of installing the app and using it. All users are anonymous to us - we don't know who they are or where they are.", 
+    "faqContent100106": "**Ouisync** is a **P2P** solution",
+    "faqContent100107": "This means that using **Ouisync** successfully does not depend on any central server anywhere. **Ouisync** makes use of decentralized peer-to-peer networking, which makes it an effective file-sharing app even in situations where well-known file-sharing servers (such as **Dropbox** or **Google Drive**) are unavailable.",
 
     
      
@@ -524,17 +534,7 @@
     "faqContent511": "No.  _**Repository**_ manipulation (for example: renaming, sharing, and deleting) must be done using the Ouisync app screens. ", 
     
     
-    "faqSectionTitle3": "Ouisync compared to other apps",
-    
-    "faqTitle20": "What are the advantages of using Ouisync over Dropbox, Google, or other similar solutions?",
-    "faqContent200": "Free to use",
-    "faqContent201": "To be able to share files using Dropbox, you need to create a Dropbox account. This requires your name, email, and credit card. It also requires payment. ",
-    "faqContent202": "**Ouisync** is entirely free and open source software. To share files using **Ouisync**, you only need to install the app. That's it. No payment is required.",
-    "faqContent203": "User account is not necessary",
-    "faqContent204": "**Ouisync** does not require the creation of user accounts. With **Ouisync**, it is simply a matter of installing the app and using it. All users are anonymous to us - we don't know who they are or where they are.",
-    "faqContent205": "**Ouisync** is a **P2P** solution",
-    "faqContent206": "This means that using **Ouisync** successfully does not depend on any central server anywhere. **Ouisync** makes use of decentralized peer-to-peer networking, which makes it an effective file-sharing app even in situations where well-known file-sharing servers (such as **Dropbox** or **Google Drive**) are unavailable.",
-
+  
     "faqSectionTitle4": "Ouisync Peer-to-peer networking", 
 
     "faqTitle20a0": "Connection type",
