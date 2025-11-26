@@ -904,50 +904,50 @@ date: 2023-07-10T12:14:12-04:00
 <div id="passwords-and-biometrics">
 
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "faqSectionTitle2a" %}}
+## {{% render-i18n "faqSectionTitle09" %}}
 {{% /center %}}
 
 <details>
 <summary>
-{{% render-i18n "faqTitle3" %}}
+{{% render-i18n "faqTitle0901" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent30" %}}
+{{% render-i18n "faqContent090101" %}}
 
-{{% render-i18n "faqContent30a" %}}
+{{% render-i18n "faqContent090102" %}}
 
-{{% render-i18n "faqContent30b" %}}
+{{% render-i18n "faqContent090103" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle3a" %}}
+{{% render-i18n "faqTitle0902" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent3a1" %}}
+{{% render-i18n "faqContent090201" %}}
 {{< figure src="/img/080_use_local_pwd_shadow.png" alt="Use local password" >}}
 
-{{% render-i18n "faqContent3a2" %}}
+{{% render-i18n "faqContent090202" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle3b" %}}
+{{% render-i18n "faqTitle0903" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent3b1" %}}
+{{% render-i18n "faqContent090301" %}}
 
-{{% render-i18n "faqContent3b2" %}}
+{{% render-i18n "faqContent090302" %}}
 {{< figure src="/img/080_remember_pwd_shadow.png" alt="Remember password option" >}}
 
-{{% render-i18n "faqContent3b3" %}}
+{{% render-i18n "faqContent090303" %}}
 
 
 {{% /markdown %}}
@@ -956,102 +956,102 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle3c" %}}
+{{% render-i18n "faqTitle0904" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent3c1" %}}
+{{% render-i18n "faqContent090401" %}}
 
-{{% render-i18n "faqContent3c2" %}}
+{{% render-i18n "faqContent090402" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle3d" %}}
+{{% render-i18n "faqTitle0905" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent3d1" %}}
+{{% render-i18n "faqContent090501" %}}
 
-{{% render-i18n "faqContent3d2" %}}
+{{% render-i18n "faqContent090502" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle3e" %}}
+{{% render-i18n "faqTitl0906" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent3e01" %}}
+{{% render-i18n "faqContent090601" %}}
 
-{{% render-i18n "faqContent3e02" %}}
+{{% render-i18n "faqContent090602" %}}
 
-### {{% render-i18n "faqContent3e03" %}}
+### {{% render-i18n "faqContent090603" %}}
 
-{{% render-i18n "faqContent3e04" %}}
+{{% render-i18n "faqContent090604" %}}
 
-{{% render-i18n "faqContent3e05" %}}
+{{% render-i18n "faqContent090605" %}}
 
-{{% render-i18n "faqContent3e06" %}}
+{{% render-i18n "faqContent090606" %}}
 
-{{% render-i18n "faqContent3e07" %}}
+{{% render-i18n "faqContent090607" %}}
 
-{{% render-i18n "faqContent3e08" %}}
+{{% render-i18n "faqContent090608" %}}
 {{< figure src="/img/090_repo_access_blue_link_shadow1.png" alt="Reset repo access link" >}}
 
-{{% render-i18n "faqContent3e09" %}}
+{{% render-i18n "faqContent090609" %}}
 
-{{% render-i18n "faqContent3e10" %}}
+{{% render-i18n "faqContent090610" %}}
 
-### {{% render-i18n "faqContent3e11" %}}
+### {{% render-i18n "faqContent090611" %}}
 
-{{% render-i18n "faqContent3e12" %}}
+{{% render-i18n "faqContent090612" %}}
 
-### {{% render-i18n "faqContent3e13" %}}
+### {{% render-i18n "faqContent090613" %}}
 
-{{% render-i18n "faqContent3e14" %}}
+{{% render-i18n "faqContent090614" %}}
 
-
-{{% /markdown %}}
-</details>
-
-<details>
-<summary>
-{{% render-i18n "faqTitle3f" %}}
-</summary>
-{{% markdown %}}
-
-{{% render-i18n "faqContent3f1" %}}
-
-{{% render-i18n "faqContent3f2" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle3g" %}}
+{{% render-i18n "faqTitle0907" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent3g1" %}}
+{{% render-i18n "faqContent090701" %}}
 
-{{% render-i18n "faqContent3g2" %}}
+{{% render-i18n "faqContent090702" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle3h" %}}
+{{% render-i18n "faqTitle0908" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent3h1" %}}
+{{% render-i18n "faqContent090801" %}}
+
+{{% render-i18n "faqContent090802" %}}
+
+{{% /markdown %}}
+</details>
+
+<details>
+<summary>
+{{% render-i18n "faqTitle0909" %}}
+</summary>
+{{% markdown %}}
+
+{{% render-i18n "faqContent090901" %}}
 
 {{< figure src="/img/080_dont_use_local_pwd_shadow.png" alt="Don't use local password" >}}
 
@@ -1061,38 +1061,38 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle4" %}}
+{{% render-i18n "faqTitle0910" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent40" %}}
+{{% render-i18n "faqContent091001" %}}
   
-{{% render-i18n "faqContent41" %}}
-{{% render-i18n "faqContent42" %}}
+{{% render-i18n "faqContent091002" %}}
+{{% render-i18n "faqContent091003" %}}
 
-{{% render-i18n "faqContent43" %}}
+{{% render-i18n "faqContent091004" %}}
 
-{{% render-i18n "faqContent44" %}}
-{{% render-i18n "faqContent45" %}}
+{{% render-i18n "faqContent091005" %}}
+{{% render-i18n "faqContent091006" %}}
 
-{{% render-i18n "faqContent46" %}}  
+{{% render-i18n "faqContent091007" %}}  
 
-{{% render-i18n "faqContent47" %}}
+{{% render-i18n "faqContent091008" %}}
 {{% /markdown %}}
 </details>
 <details>
 <summary>
-{{% render-i18n "faqTitle4a" %}}
+{{% render-i18n "faqTitle0911" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent4a1" %}}
+{{% render-i18n "faqContent091101" %}}
 
-{{% render-i18n "faqContent4a2" %}}
+{{% render-i18n "faqContent091102" %}}
 {{< figure src="/img/080_secure_using_biometrics_shadow.png" alt="Secure using biometrics" >}}
 
-{{% render-i18n "faqContent4a3" %}}
+{{% render-i18n "faqContent091103" %}}
 
-{{% render-i18n "faqContent4a4" %}}
+{{% render-i18n "faqContent091104" %}}
 
 
 {{% /markdown %}}
@@ -1100,15 +1100,15 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle4b" %}}
+{{% render-i18n "faqTitle0912" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent4b1" %}}
+{{% render-i18n "faqContent091201" %}}
 
-{{% render-i18n "faqContent4b2" %}}
+{{% render-i18n "faqContent091202" %}}
 
-{{% render-i18n "faqContent4b3" %}}
+{{% render-i18n "faqContent091203" %}}
 
 
 {{% /markdown %}}
