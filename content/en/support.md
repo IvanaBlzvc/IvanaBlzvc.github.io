@@ -1148,46 +1148,46 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 <div id="peers-and-networking">
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "faqSectionTitle4" %}}</h1>
+## {{% render-i18n "faqSectionTitle11" %}}</h1>
 {{% /center %}}
 </div>
 <details>
 <summary>
-{{% render-i18n "faqTitle20a0" %}}
+{{% render-i18n "faqTitle1101" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent20a01" %}}
+{{% render-i18n "faqContent110101" %}}
 
-{{% render-i18n "faqContent20a02" %}}
+{{% render-i18n "faqContent110102" %}}
 {{< figure src="/img/090_orange_mobile_warning_shadow.png" alt="Mobile data warning" >}}
 
-{{% render-i18n "faqContent20a03" %}}
+{{% render-i18n "faqContent110103" %}}
 
-{{% render-i18n "faqContent20a04" %}}
+{{% render-i18n "faqContent110104" %}}
 
-{{% render-i18n "faqContent20a05" %}}
+{{% render-i18n "faqContent110105" %}}
 
-{{% render-i18n "faqContent20a06" %}}
+{{% render-i18n "faqContent110106" %}}
 
-{{% render-i18n "faqContent20a07" %}}
+{{% render-i18n "faqContent110107" %}}
 
-{{% render-i18n "faqContent20a08" %}}
+{{% render-i18n "faqContent110108" %}}
 {{< figure src="/img/090_data_used_shadow.png" alt="Data used" >}}
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle20a1" %}}
+{{% render-i18n "faqTitle1102" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent20a11" %}}
+{{% render-i18n "faqContent110201" %}}
 
-{{% render-i18n "faqContent20a12" %}}
+{{% render-i18n "faqContent110202" %}}
 
-{{% render-i18n "faqContent20a14" %}}
+{{% render-i18n "faqContent110204" %}}
 
 {{% /markdown %}}
 </details>
@@ -1195,105 +1195,105 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle20a2" %}}
+{{% render-i18n "faqTitle1103" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent20a21" %}}
+{{% render-i18n "faqContent110301" %}}
 {{< figure src="/img/082_peers_section_shadow.png" alt="App settings Peers section" >}}
 
-{{% render-i18n "faqContent20a22" %}}
+{{% render-i18n "faqContent110302" %}}
 
-{{% render-i18n "faqContent20a23" %}} 
+{{% render-i18n "faqContent110303" %}} 
 
-{{% render-i18n "faqContent20a24" %}}
-{{% render-i18n "faqContent20a25" %}}
-{{% render-i18n "faqContent20a26" %}}
+{{% render-i18n "faqContent110304" %}}
+{{% render-i18n "faqContent110305" %}}
+{{% render-i18n "faqContent110306" %}}
 
-{{% render-i18n "faqContent20a27" %}}
+{{% render-i18n "faqContent110307" %}}
 {{< figure src="/img/082_peers_screen_shadow.png" alt="Peers screen" >}}
 
-{{% render-i18n "faqContent20a28" %}}
+{{% render-i18n "faqContent110308" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle20b" %}}
+{{% render-i18n "faqTitle1104" %}}
 </summary>
 {{% markdown %}}
 
 {{< figure src="/img/082_dht_pex_shadow.png" alt="BittorrentDHT and Peer exchange" >}}  
-{{% render-i18n "faqContent20b1" %}}
+{{% render-i18n "faqContent110401" %}}
 {{< figure src="/img/082_local_disc_upnp_shadow.png" alt="BittorrentDHT and Peer exchange" >}}  
 
-{{% render-i18n "faqContent20b2" %}}
+{{% render-i18n "faqContent110402" %}}
 
-{{% render-i18n "faqContent20b3" %}}
+{{% render-i18n "faqContent110403" %}}
 
-{{% render-i18n "faqContent20b4" %}}
+{{% render-i18n "faqContent110404" %}}
 {{% /markdown %}}
 </details>
 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle20c" %}}
+{{% render-i18n "faqTitle1105" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent20c1" %}}
+{{% render-i18n "faqContent110501" %}}
 
-{{% render-i18n "faqContent20c2" %}}
+{{% render-i18n "faqContent110502" %}}
 
-{{% render-i18n "faqContent20c3" %}}
+{{% render-i18n "faqContent110503" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle20d" %}}
+{{% render-i18n "faqTitle1106" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent20d01" %}}
+{{% render-i18n "faqContent110601" %}}
 
-{{% render-i18n "faqContent20d02" %}}
+{{% render-i18n "faqContent110602" %}}
 
-{{% render-i18n "faqContent20d03" %}}
+{{% render-i18n "faqContent110603" %}}
 {{< figure src="/img/082_peer_shadow.png" alt="Peer button" >}}  
 
-{{% render-i18n "faqContent20d04" %}}
+{{% render-i18n "faqContent110604" %}}
 {{< figure src="/img/082_user_provided_peers_shadow.png" alt="User provided peers screen" >}} 
 
-{{% render-i18n "faqContent20d05" %}}
-{{% render-i18n "faqContent20d06" %}}
+{{% render-i18n "faqContent110605" %}}
+{{% render-i18n "faqContent110606" %}}
 {{< figure src="/img/082_add_peer_shadow.png" alt="Add peer dialog" >}} 
 
-{{% render-i18n "faqContent20d07" %}}
+{{% render-i18n "faqContent110607" %}}
 
-{{% render-i18n "faqContent20d08" %}}
+{{% render-i18n "faqContent110608" %}}
 {{< figure src="/img/082_user_provided_shadow.png" alt="User provided label" >}} 
 
-{{% render-i18n "faqContent20d09" %}}
+{{% render-i18n "faqContent110609" %}}
 
-{{% render-i18n "faqContent20d10" %}}
-{{% render-i18n "faqContent20d11" %}}
-{{% render-i18n "faqContent20d12" %}}
+{{% render-i18n "faqContent110610" %}}
+{{% render-i18n "faqContent110611" %}}
+{{% render-i18n "faqContent110612" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle20e" %}}
+{{% render-i18n "faqTitle1107" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent20e1" %}}
+{{% render-i18n "faqContent110701" %}}
 
-{{% render-i18n "faqContent20e2" %}}
+{{% render-i18n "faqContent110702" %}}
 
 {{% /markdown %}}
 </details>
@@ -1302,13 +1302,13 @@ date: 2023-07-10T12:14:12-04:00
 <details>
 <summary>
   <a name="IP" style="text-decoration:none">
-{{% render-i18n "faqTitle20f" %}}
+{{% render-i18n "faqTitle1108" %}}
     </a>
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent20f1" %}}
+{{% render-i18n "faqContent110801" %}}
 
-{{% render-i18n "faqContent20f2" %}}
+{{% render-i18n "faqContent110802" %}}
 {{< figure src="/img/082_add_peer_shadow.png" alt="Add peer dialog" >}} 
 
 {{% /markdown %}}
@@ -1317,52 +1317,52 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle20g" %}}
+{{% render-i18n "faqTitle1109" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent20g1" %}}
+{{% render-i18n "faqContent110901" %}}
 
-{{% render-i18n "faqContent20g2" %}}
+{{% render-i18n "faqContent110902" %}}
 
-{{% render-i18n "faqContent20g3" %}}
+{{% render-i18n "faqContent110903" %}}
 
 {{% /markdown %}}
 </details>
 <details>
 <summary>
-{{% render-i18n "faqTitle20h" %}}
+{{% render-i18n "faqTitle1110" %}}
 </summary>
 {{% markdown %}}
   
-{{% render-i18n "faqContent20h1" %}}
-
-{{% /markdown %}}
-</details>
-
-<details>
-<summary>
-{{% render-i18n "faqTitle20i" %}}
-</summary>
-{{% markdown %}}
-  
-{{% render-i18n "faqContent20i1" %}}
-
-{{% render-i18n "faqContent20i2" %}}
+{{% render-i18n "faqContent111001" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle21" %}}
+{{% render-i18n "faqTitle1111" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent210" %}}
+  
+{{% render-i18n "faqContent111101" %}}
 
-{{% render-i18n "faqContent211" %}}
+{{% render-i18n "faqContent111102" %}}
 
-{{% render-i18n "faqContent212" %}}
+{{% /markdown %}}
+</details>
+
+<details>
+<summary>
+{{% render-i18n "faqTitle1112" %}}
+</summary>
+{{% markdown %}}
+{{% render-i18n "faqContent111201" %}}
+
+{{% render-i18n "faqContent111202" %}}
+
+{{% render-i18n "faqContent111203" %}}
 {{% /markdown %}}
 </details>
 </div>
@@ -1371,32 +1371,32 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 <div id="windows">
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "ouisyncWindows" %}}
+## {{% render-i18n "faqsectionTitle12" %}}
 {{% /center %}}
 </div>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle41" %}}
+{{% render-i18n "faqTitle1201" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent411" %}}
+{{% render-i18n "faqContent120101" %}}
 {{< figure src="/img/080_app_in_store_shadow.png" alt="App in MS store" >}}
 
-{{% render-i18n "faqContent412" %}}
+{{% render-i18n "faqContent120102" %}}
 {{< figure src="/img/080_ouisync_installer_shadow.png" alt="Ouisync installer" >}}
 
-{{% render-i18n "faqContent413" %}}
+{{% render-i18n "faqContent120103" %}}
 {{< figure src="/img/080_installation_steps_shadow.png" alt="Ouisync installation steps" >}}  
 
-{{% render-i18n "faqContent414" %}}
+{{% render-i18n "faqContent120104" %}}
 
-{{% render-i18n "faqContent415" %}}
+{{% render-i18n "faqContent120105" %}}
 
-{{% render-i18n "faqContent416" %}}
+{{% render-i18n "faqContent120106" %}}
 {{< figure src="/img/080_dokan_missing_shadow.png" alt="Dokan is missing" >}}  
 
-{{% render-i18n "faqContent417" %}}
+{{% render-i18n "faqContent120107" %}}
 
 
 {{% /markdown %}}
@@ -1405,73 +1405,73 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle42" %}}
+{{% render-i18n "faqTitle1202" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent421" %}}
+{{% render-i18n "faqContent120201" %}}
 {{< figure src="/img/080_no_O_drive_shadow.png" alt="O drive doesn't exist yet" >}}
 
-{{% render-i18n "faqContent422" %}}
+{{% render-i18n "faqContent120202" %}}
 {{< figure src="/img/080_O_drive_shadow.png" alt="O drive has been mounted" >}}
 
-{{% render-i18n "faqContent423" %}}
+{{% render-i18n "faqContent120203" %}}
 
-{{% render-i18n "faqContent424" %}}
+{{% render-i18n "faqContent120204" %}}
 {{< figure src="/img/080_repo_on_O_drive_shadow.png" alt="Repository on O drive" >}}
 
-{{% render-i18n "faqContent425" %}}
+{{% render-i18n "faqContent120205" %}}
 
-{{% render-i18n "faqContent427" %}}
+{{% render-i18n "faqContent120207" %}}
 
 
 {{% /markdown %}}
 </details>
 <details>
 <summary>
-{{% render-i18n "faqTitle43" %}}
+{{% render-i18n "faqTitle1203" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent431" %}}
+{{% render-i18n "faqContent120301" %}}
 
-{{% render-i18n "faqContent432" %}}
+{{% render-i18n "faqContent120302" %}}
 {{< figure src="/img/080_repository_not_mounted_shadow.png" alt="Repository is not mounted message" >}}
 
-{{% render-i18n "faqContent433" %}}
+{{% render-i18n "faqContent120303" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle44" %}}
+{{% render-i18n "faqTitle1204" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent4401" %}}
+{{% render-i18n "faqContent120401" %}}
 
-{{% render-i18n "faqContent4402" %}}
+{{% render-i18n "faqContent120402" %}}
 {{< figure src="/img/080_dokan_out_of_date_shadow.png" alt="Currently installed Dokan version is out of date" >}}
 
-{{% render-i18n "faqContent4403" %}}
+{{% render-i18n "faqContent120403" %}}
 
-{{% render-i18n "faqContent4404" %}}
+{{% render-i18n "faqContent120404" %}}
 
-{{% render-i18n "faqContent4405" %}}
+{{% render-i18n "faqContent120405" %}}
 {{< figure src="/img/080_systems_tray_shadow.png" alt="Ouisync in system tray" >}}
 
-{{% render-i18n "faqContent4406" %}}
+{{% render-i18n "faqContent120406" %}}
 {{< figure src="/img/080_exit_ouisync_shadow.png" alt="Exit ouisync" >}}
 
-{{% render-i18n "faqContent4407" %}}
+{{% render-i18n "faqContent120407" %}}
 
-{{% render-i18n "faqContent4408" %}}
+{{% render-i18n "faqContent120408" %}}
 {{< figure src="/img/080_uninstall_dokan_1_shadow.png" alt="Dokan in control panel" >}}
 
-{{% render-i18n "faqContent4409" %}}
+{{% render-i18n "faqContent120409" %}}
 {{< figure src="/img/080_uninstall_dokan_shadow.png" alt="Uninstall Dokan" >}}
 
-{{% render-i18n "faqContent4410" %}}
+{{% render-i18n "faqContent120410" %}}
 
-{{% render-i18n "faqContent4411" %}}
+{{% render-i18n "faqContent120411" %}}
 
 
 
@@ -1480,59 +1480,59 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle45" %}}
+{{% render-i18n "faqTitle1205" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent451" %}}
+{{% render-i18n "faqContent120501" %}}
 {{< figure src="/img/080_launch_at_startup_shadow.png" alt="Launch Ouisync at startup" >}}
   
-{{% render-i18n "faqContent452" %}}
+{{% render-i18n "faqContent120502" %}}
 
-{{% render-i18n "faqContent453" %}}
+{{% render-i18n "faqContent120503" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle46" %}}
+{{% render-i18n "faqTitle120606" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent461" %}}
+{{% render-i18n "faqContent120601" %}}
 {{< figure src="/img/080_dokan_missing_shadow.png" alt="Dokan is missing" >}}
   
-{{% render-i18n "faqContent462" %}}
+{{% render-i18n "faqContent120602" %}}
 {{< figure src="/img/080_dokan_installer_shadow.png" alt="Dokan is being installed" >}}
 {{< figure src="/img/080_dokan_installer_1_shadow.png" alt="Dokan is being installed" >}}
 {{< figure src="/img/080_dokan_installer_2_shadow.png" alt="Dokan is being installed" >}}
 {{< figure src="/img/080_dokan_installed_shadow.png" alt="Dokan installation has finished" >}}
 
-{{% render-i18n "faqContent463" %}}
+{{% render-i18n "faqContent120603" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle47" %}}
+{{% render-i18n "faqTitle1207" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent471" %}}
+{{% render-i18n "faqContent120701" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle48" %}}
+{{% render-i18n "faqTitle1208" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent481" %}}
+{{% render-i18n "faqContent120801" %}}
 
-{{% render-i18n "faqContent482" %}}
+{{% render-i18n "faqContent120802" %}}
 {{< figure src="/img/080_O_drive_shadow.png" alt="Dokan is being installed" >}}
 
-{{% render-i18n "faqContent483" %}}
+{{% render-i18n "faqContent120803" %}}
 {{< figure src="/img/080_repo_on_O_drive_shadow.png" alt="Dokan is being installed" >}}
 
 {{% /markdown %}}
@@ -1540,32 +1540,32 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle49" %}}
+{{% render-i18n "faqTitle1209" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent491" %}}
+{{% render-i18n "faqContent120901" %}}
 
-{{% render-i18n "faqContent492" %}}
+{{% render-i18n "faqContent120902" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle50" %}}
+{{% render-i18n "faqTitle1210" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent501" %}}
+{{% render-i18n "faqContent121001" %}}
 
 {{% /markdown %}}
 </details> 
 
 <details>
 <summary>
-{{% render-i18n "faqTitle51" %}}
+{{% render-i18n "faqTitle1211" %}}
 </summary>
 {{% markdown %}}
-{{% render-i18n "faqContent511" %}}
+{{% render-i18n "faqContent121101" %}}
 
 {{% /markdown %}}
 </details> 
@@ -1573,7 +1573,7 @@ date: 2023-07-10T12:14:12-04:00
 <div class="faq-subsection">
 <div id="troubleshooting">
 {{% center padding-top="0rem" padding-bot="1rem"%}}
-## {{% render-i18n "faqSectionTitle5" %}}</h1>
+## {{% render-i18n "faqSectionTitle13" %}}</h1>
 {{% /center %}}
 </div>
 <details>
