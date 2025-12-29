@@ -721,7 +721,7 @@ date: 2023-07-10T12:14:12-04:00
 {{% render-i18n "faqContent070705" %}}
 {{< figure src="/img/browse_files_from_ouisync.png" alt="Browse files from Ouisync" >}}
 {{% render-i18n "faqContent070706" %}}
-{{< figure src="/img/browse_files_from_ouisync_repo.png" alt="Browse files from Ouisync repository" >}}
+{{< figure src="/img/brows_files_from_ouisync_repo.png" alt="Browse files from Ouisync repository" >}}
 
 {{% render-i18n "faqContent070707" %}}
 
