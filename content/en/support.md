@@ -390,45 +390,45 @@ date: 2023-07-10T12:14:12-04:00
 <details>
 <summary>
 <a name="modify-access" style="text-decoration: none">
-{{% render-i18n "faqTitle0506" %}}
+{{% render-i18n "faqTitle0507" %}}
 </a>
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent050601" %}}
+{{% render-i18n "faqContent050701" %}}
 
-{{% render-i18n "faqContent050602" %}}
+{{% render-i18n "faqContent050702" %}}
 
-{{% render-i18n "faqContent050603" %}}
+{{% render-i18n "faqContent050703" %}}
 
-{{% render-i18n "faqContent050604" %}}
+{{% render-i18n "faqContent050704" %}}
 
-{{% render-i18n "faqContent050605" %}}
+{{% render-i18n "faqContent050705" %}}
 {{< figure src="/img/090_repo_access_change_start_shadow.png" alt="Repository has write access" >}}
 
-{{% render-i18n "faqContent050606" %}}
+{{% render-i18n "faqContent050706" %}}
 {{< figure src="/img/090_repo_access_blue_link_shadow.png" alt="Blue link in the repository security page" >}}
 
-{{% render-i18n "faqContent050607" %}}
+{{% render-i18n "faqContent050707" %}}
 {{< figure src="/img/090_repo_access_shadow.png" alt="Repository access screen" >}}
 
-{{% render-i18n "faqContent050608" %}}
+{{% render-i18n "faqContent050708" %}}
 
-{{% render-i18n "faqContent050609" %}}
+{{% render-i18n "faqContent050709" %}}
 
-{{% render-i18n "faqContent050610" %}}
+{{% render-i18n "faqContent050710" %}}
 {{< figure src="/img/090_repo_access1_shadow.png" alt="Enter new link" >}}
 
-{{% render-i18n "faqContent050611" %}}
+{{% render-i18n "faqContent050711" %}}
 {{< figure src="/img/090_repo_access2_shadow.png" alt="Confirm changes" >}}
 
-{{% render-i18n "faqContent050612" %}}
+{{% render-i18n "faqContent050712" %}}
 {{< figure src="/img/090_repo_access3_shadow.png" alt="Repository access modified" >}}
 
-{{% render-i18n "faqContent050613" %}}
+{{% render-i18n "faqContent050713" %}}
 {{< figure src="/img/090_repo_access_change_done_shadow.png" alt="Repository access screen complete" >}}
 
-{{% render-i18n "faqContent050614" %}}
+{{% render-i18n "faqContent050714" %}}
 
 {{% /markdown %}}
 </details>
