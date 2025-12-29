@@ -982,7 +982,7 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitl0906" %}}
+{{% render-i18n "faqTitle0906" %}}
 </summary>
 {{% markdown %}}
 
