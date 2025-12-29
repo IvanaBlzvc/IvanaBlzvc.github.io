@@ -230,7 +230,7 @@
     "faqContent060201": "Typically, if you want to back up your data, the backups would be created by some utility program, and they would be timestamped.  Thus, if you needed to, you would be able to go back to the previous backed up version. ",
     "faqContent060202": "This is not the case with **Ouisync Blind** _**repositories**_.  ",
     "faqContent060203": "Currently, **Ouisync app** doesn’t create timestamped backups that contain previous versions of data, so you cannot go back to the version of _**repository**_ you had two weeks ago.  ",
-    "faqContent060204": "This feature is on our roadmap, but for the time being your **blind** _**repository**_ will contain all the data that your original _**repository**_ contained when they last connected. .",
+    "faqContent060204": "This feature is on our roadmap, but for the time being your **blind** _**repository**_ will contain all the data that your original _**repository**_ contained when they last connected.",
     "faqContent060205": "As soon as they reconnect, their data will sync, and they will be the exact replica of each other. ",  
     
     "faqTitle0603": "What are my Blind repositories useful for?",
