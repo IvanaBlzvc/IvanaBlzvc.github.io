@@ -1495,7 +1495,7 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle120606" %}}
+{{% render-i18n "faqTitle1206" %}}
 </summary>
 {{% markdown %}}
 {{% render-i18n "faqContent120601" %}}
