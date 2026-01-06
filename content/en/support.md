@@ -745,7 +745,7 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-<a name="privacy-and-security" style="text-decoration: none">
+
 {{% render-i18n "faqTitle0801" %}}
 </a>   
 </summary>
@@ -875,36 +875,65 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-{{% render-i18n "faqTitle0811" %}}
+<a name="privacy-and-security" style="text-decoration: none">
+{{% render-i18n "faqTitle08a01" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent081101" %}}
+{{% render-i18n "faqContent08a0101" %}}
 
 {{% /markdown %}}
 </details>
 
 <details>
 <summary>
-{{% render-i18n "faqTitle0812" %}}
+{{% render-i18n "faqTitle08a02" %}}
 </summary>
 {{% markdown %}}
 
-{{% render-i18n "faqContent081201" %}}
+{{% render-i18n "faqContent08a0201" %}}
 {{< figure src="/img/080_lock_button_shadow.png" alt="Do not Use Cache Server" >}}
 
-{{% render-i18n "faqContent081202" %}}
+{{% render-i18n "faqContent08a0202" %}}
 
-{{% render-i18n "faqContent081203" %}}
+{{% render-i18n "faqContent08a0203" %}}
 
-{{% render-i18n "faqContent081204" %}}
+{{% render-i18n "faqContent08a0204" %}}
 
-{{% render-i18n "faqContent081205" %}}
+{{% render-i18n "faqContent08a0205" %}}
 
-{{% render-i18n "faqContent081206" %}}
+{{% render-i18n "faqContent08a0206" %}}
 
 {{% /markdown %}}
 </details>
+
+<details>
+<summary>
+
+{{% render-i18n "faqTitle08a03" %}}
+</summary>
+{{% markdown %}}
+
+{{% render-i18n "faqContent08a0301" %}}
+
+{{% /markdown %}}
+</details>
+
+<details>
+<summary>
+
+{{% render-i18n "faqTitle08a04" %}}
+</summary>
+{{% markdown %}}
+
+{{% render-i18n "faqContent08a0401" %}}
+{{% render-i18n "faqContent08a0402" %}}
+{{% render-i18n "faqContent08a0403" %}}
+{{% render-i18n "faqContent08a0404" %}}
+
+{{% /markdown %}}
+</details>
+
 </div>
 
 <div class="faq-subsection">
