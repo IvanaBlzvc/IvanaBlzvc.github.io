@@ -83,6 +83,7 @@
     "faqContent010101": "A _**repository**_ is simply a place where you can store and share your files and folders securely, using **Ouisync**. You can think of it as a root folder, or even a safe, that will contain other folders and files that you want to share with your peers.",
     "faqTitle0102": "Where can I see my repositories?",
     "faqContent010201": "When you open the **Ouisync app**, after the onboarding screens you will see the main screen listing all the _**repositories**_ you have created. Initially this screen will be empty, but as you begin creating _**repositories**_, they will be listed here.",
+    "faqContent010202": "As you can see, some of repositories on this screen have a small SD card icon next to them, indicating that they are stored on the SD card inserted into the device. Others are stored in the device internal storage. ", 
     
     "faqSectionTitle02": "Create Repositories",  
     "faqTitle0201": "How can I create new repositories?",
