@@ -364,7 +364,7 @@
     "faqTitle0810": "Can I set up my own server to use with my peers?",
     "faqContent081001": "Not yet.  We are working on it and in the near future you will be able to set up your own **Cache Server** to use with your peers.",
     
-    "faqSectionTitle08a": "Privacy, security and storage",
+    "faqSectionTitle08a": "Privacy, Security and Storage",
     
     "faqTitle08a01": "What private data does Ouisync use/store?",
     "faqContent081101": "**Ouisync** uses the IP addresses of your devices to be able to connect you with your peers in the peer-to-peer network. We don't store those IP addresses anywhere on our systems. We don't keep any other user data. ",
