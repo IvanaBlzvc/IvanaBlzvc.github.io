@@ -381,10 +381,10 @@
     "faqContent08a0301": "No.  Currently we do not provide a way to store the Ouisync repositories on a US stick or other external storage device.  This feature is on our roadmap for future development. ",
    
     "faqTitle08a04": "Can I store my repositories on an SD card? ",
-    "faqContent08a0401": "Currently you can do this using your android devices.  If you remove the SD card from the device, the repositories that are stored on it will not show in the Ouisync app.",
-    "faqContent08a0402": "If you re-insert the SD card into the same device, you will be able to see the repositories stored on it and use them like any other Ouisync repositories.",
-    "faqContent08a0403": "Currently, if you insert the same SD card into another device, you won't be able to access the repositories that have not originated on that device.",
-    "faqContent08a0404": "The feature that would allow users to swap the SD cards between devices and have access to the Ouisync repositories created on different devices - is on our roadmap fro future development.", 
+    "faqContent08a0401": "Currently you can do this using your android devices.  If you remove the SD card from the device, the _**repositories**_ that are stored on it will not show in the **Ouisync** app.",
+    "faqContent08a0402": "If you re-insert the SD card into the same device, you will be able to see the _**repositories**_ stored on it and use them like any other **Ouisync** _**repositories**_.",
+    "faqContent08a0403": "Currently, if you insert the same SD card into another device, you won't be able to access the _**repositories**_ that have not originated on that device.",
+    "faqContent08a0404": "The feature that would allow users to swap the SD cards between devices and have access to the **Ouisync** _**repositories**_ created on different devices - is on our roadmap for future development.", 
     
     "faqSectionTitle09": "Passwords and Biometrics",
     
@@ -458,7 +458,7 @@
     "faqContent091202": "If you switch the **biometric protection OFF**, you will still be required to scan your fingerprint when you want to enter the **Security screen**. ",
     "faqContent091203": "**Biometric protection** of the **Security screen** is deleted only when  **biometric protection** is removed from devices, or when you decide to use the **password** protection instead. ",
 
-    "faqSectionTitle10": "Ouisync compared to other apps",
+    "faqSectionTitle10": "Ouisync Compared to Other Apps",
     
     "faqTitle1001": "What are the advantages of using Ouisync over Dropbox, Google, or other similar solutions?",
     "faqContent100101": "Free to use",
@@ -469,7 +469,7 @@
     "faqContent100106": "**Ouisync** is a **P2P** solution",
     "faqContent100107": "This means that using **Ouisync** successfully does not depend on any central server anywhere. **Ouisync** makes use of decentralized peer-to-peer networking, which makes it an effective file-sharing app even in situations where well-known file-sharing servers (such as **Dropbox** or **Google Drive**) are unavailable.",
 
-    "faqSectionTitle11": "Ouisync Peer-to-peer networking", 
+    "faqSectionTitle11": "Ouisync Peer-to-peer Networking", 
 
     "faqTitle1101": "Connection type",
     "faqContent110101": "If you are using the Ouisync app on your Android phone, on top of the app **Settings** page, you will notice Connection type", 
@@ -531,7 +531,7 @@
 
     "faqTitle1109": "Can Ouisync app work with VPN tools?", 
     "faqContent110901": "Yes.  We test the Ouisync app using VPNs and are able to sync data between devices that use VPNs and between those ones and the ones that don’t use them.",
-    "faqContent110902": "However, we cannot guarantee that Ouisync app will work with absolutely every VPN solution out there. ",
+    "faqContent110902": "However, we cannot guarantee that **Ouisync** app will work with absolutely every VPN solution out there. ",
     "faqContent110903": "In future releases, to further increase the user’s privacy and security, we will endeavour to further annonymise the user’s IP addresses for users who don’t regularly use the VPNs.  ", 
     
     "faqTitle1110": "What encryption techniques does Ouisync use?", 
