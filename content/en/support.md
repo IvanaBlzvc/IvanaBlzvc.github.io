@@ -744,9 +744,7 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-
 {{% render-i18n "faqTitle0801" %}}
-
 </summary>
 {{% markdown %}}
 
@@ -918,7 +916,6 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-
 {{% render-i18n "faqTitle08a03" %}}
 </summary>
 {{% markdown %}}
@@ -930,7 +927,6 @@ date: 2023-07-10T12:14:12-04:00
 
 <details>
 <summary>
-
 {{% render-i18n "faqTitle08a04" %}}
 </summary>
 {{% markdown %}}
