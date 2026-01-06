@@ -115,7 +115,7 @@ date: 2023-07-10T12:14:12-04:00
 {{< figure src="/img/import_link.png" alt="Shared repository link" >}}
 
 {{% render-i18n "faqContent030105" %}}
-{{< figure src="/img/090_import_repo3_shadow.png" alt="Import repository screen" >}}
+{{< figure src="/img/import_repo_3.png" alt="Import repository screen" >}}
 {{% render-i18n "faqContent030106" %}}
 
 {{% render-i18n "faqContent030107" %}}
