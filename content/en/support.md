@@ -65,6 +65,8 @@ date: 2023-07-10T12:14:12-04:00
 
 {{% render-i18n "faqContent020106" %}}
 
+{{% render-i18n "faqContent020107" %}}
+{{< figure src="/img/sd_card_shadow.png" alt="Store your repository on an SD Card." >}}
 {{% /markdown %}}
 </details> 
 
