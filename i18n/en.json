@@ -92,7 +92,8 @@
     "faqContent020104": "When creating a _**repository**_ you need to decide if you want to use the _**Ouisync cache server**_. ",
     "faqContent020105": "Generally speaking, if you want to sync your data with peers or devices that are online at the same time as you, then the server option may not be necessary.",  
     "faqContent020106": "But when you want to sync some data with your peers who are not online at the same time as you, using the server may be helpful. [Learn more](#privacy-and-security).",  
-
+    "faqContent020107": "On devices that have an SD card inserted, you can decide if you want to store your repository in the internal storage of the device itself, or on your SD card. ", 
+    
     "faqTitle0202": "How can I add files and folders to my repository?",
     "faqContent020201": "That's easy. Tap on the _**repository name**_.  This will take you to the _**repository**_ contents screen where you will see a **Plus** button: ",
     "faqContent020202": "This will open a small window where you can choose whether to create a folder within that _**repository**_ or add files to it",
