@@ -34,7 +34,7 @@ date: 2023-07-10T12:14:12-04:00
 
 {{% render-i18n "faqContent010201" %}}
 
-{{< figure src="/img/080_my_repositories_shadow.png" alt="Ouisync home page listing your repositories">}}
+{{< figure src="/img/repository_list_shadow.png" alt="Ouisync home page listing your repositories">}}
 
 {{% /markdown %}}
 </details>
@@ -66,7 +66,8 @@ date: 2023-07-10T12:14:12-04:00
 {{% render-i18n "faqContent020106" %}}
 
 {{% render-i18n "faqContent020107" %}}
-{{< figure src="/img/sd_card_shadow.png" alt="Store your repository on an SD Card." >}}
+{{< figure src="/img/sd_card_shadow.png" alt="Store your repository on SD Card." >}}
+
 {{% /markdown %}}
 </details> 
 
