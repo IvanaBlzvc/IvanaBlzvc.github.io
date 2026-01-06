@@ -746,7 +746,7 @@ date: 2023-07-10T12:14:12-04:00
 <summary>
 
 {{% render-i18n "faqTitle0801" %}}
-</a>   
+
 </summary>
 {{% markdown %}}
 
@@ -871,11 +871,21 @@ date: 2023-07-10T12:14:12-04:00
 
 {{% /markdown %}}
 </details>
+</div>
+
+<div class="faq-subsection">
+
+{{% center padding-top="0rem" padding-bot="1rem"%}}
+
+## {{% render-i18n "faqSectionTitle08a" %}}
+
+{{% /center %}}
 
 <details>
 <summary>
-<a name="privacy-and-security" style="text-decoration: none">
+<a name="privacy-and-security" style="text-decoration: none">  
 {{% render-i18n "faqTitle08a01" %}}
+</a>   
 </summary>
 {{% markdown %}}
 
